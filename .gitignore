@@ -1,3 +1,5 @@
 venv/
 .venv
 Project/initial_old.ipynb
+.vscode/
+..vscode
