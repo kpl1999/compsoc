@@ -32,3 +32,4 @@ maester luwin -> luwin
 royce -> waymar royce (when the son is meant)
 royce -> yohn royce (when the father is meant)
 jeor -> jeor mormont
+varys -> lord varys
