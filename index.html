@@ -1,24 +1,38 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
 <head>
-    <title>This is a test header Kristi</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Header is coming...</title>
+
+    <!-- import pure css for grid -->
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/pure-min.css"
+		integrity="sha384-Uu6IeWbM+gzNVXJcM9XV3SohHtmWE+3VGi496jvgX1jyvDTXfdK+rfZc8C1Aehk5" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/grids-responsive-min.css" />
+
+    <!-- use css files from folder css -->
+    <link rel="stylesheet" type="text/css" href="styles.css" media="all">
+
+    <!-- import JS functions -->
+    <script defer src="apps.js"></script>
 </head>
 
+
 <body>
-    <center>
+    <section>
+        <h1>This is the title of our site</h1>
 
-        <div>
-            <h1>This is the title of our site</h1>
+        <h2>Below will be an amazing graph about GoT characters</h2>
+    </section>
+    
+    <section>
+        <iframe class="graph" src="Project/graphs/coscenes_graph.html" 
+            frameborder="0" 
+            allowfullscreen="true">
+        </iframe>
+    </section>
 
-            <h2>Below will be an amazing graph about GoT characters</h2>
-        </div>
-        <div>
-            <iframe src="Project/graphs/coscenes_graph.html" width=1200 height=1200 frameborder="0"></iframe>
-        </div>
-    </center>
+    
 </body>
-
-
-
 </html>
