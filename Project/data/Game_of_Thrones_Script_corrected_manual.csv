@@ -3210,7 +3210,7 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2012-04-01,Season 2,Episode 1,The North Remembers,tyrion lannister,"What a fine job you've done. . Look at you. . More beautiful than ever. . And you! You, you're going to be bigger than the Hound, but much better looking. . This one doesn't like me."
 2012-04-01,Season 2,Episode 1,The North Remembers,bronn,Can't imagine why.
 2012-04-01,Season 2,Episode 1,The North Remembers,joffrey lannister,We heard you were dead.
-2012-04-01,Season 2,Episode 1,The North Remembers,myrcella,I'm glad you're not dead.
+2012-04-01,Season 2,Episode 1,The North Remembers,myrcella baratheon,I'm glad you're not dead.
 2012-04-01,Season 2,Episode 1,The North Remembers,tyrion lannister,"Me, too, dear. Death is so boring, especially now with so much excitement in the world. . My Lady, I'm sorry for your loss."
 2012-04-01,Season 2,Episode 1,The North Remembers,joffrey lannister,Her loss? Her father was a confessed traitor!
 2012-04-01,Season 2,Episode 1,The North Remembers,tyrion lannister,But still her father. Surely having so recently lost your own beloved father you can sympathize.
@@ -4113,9 +4113,9 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2012-04-15,Season 2,Episode 3,What Is Dead May Never Die,shae,How is being a weakness a compliment?
 2012-04-15,Season 2,Episode 3,What Is Dead May Never Die,tyrion lannister,Language can be a bit tricky here.
 2012-04-15,Season 2,Episode 3,What Is Dead May Never Die,shae,"Oh, I'm too stupid to understand. The stupid foreign girl. I am not a kitchen wench."
-2012-04-15,Season 2,Episode 3,What Is Dead May Never Die,myrcella,When will Joffrey and Sansa be married?
+2012-04-15,Season 2,Episode 3,What Is Dead May Never Die,myrcella baratheon,When will Joffrey and Sansa be married?
 2012-04-15,Season 2,Episode 3,What Is Dead May Never Die,cersei lannister,"Soon, darling, when the war is over."
-2012-04-15,Season 2,Episode 3,What Is Dead May Never Die,myrcella,"Mother says I'll have a new gown for the ceremony and another for the feast. But yours will be ivory, since you're the bride."
+2012-04-15,Season 2,Episode 3,What Is Dead May Never Die,myrcella baratheon,"Mother says I'll have a new gown for the ceremony and another for the feast. But yours will be ivory, since you're the bride."
 2012-04-15,Season 2,Episode 3,What Is Dead May Never Die,cersei lannister,The princess just spoke to you.
 2012-04-15,Season 2,Episode 3,What Is Dead May Never Die,sansa stark,"Pardon, Your Grace. I'm sure your dress will be beautiful, Myrcella. I'm counting the days until the fighting is done and I can pledge my love to the King in sight of the gods."
 2012-04-15,Season 2,Episode 3,What Is Dead May Never Die,tommen lannister,Is Joffrey going to kill Sansa's brother?
@@ -5187,7 +5187,7 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2012-05-06,Season 2,Episode 6,The Old Gods and the New,theon greyjoy,"Any last words, old man?"
 2012-05-06,Season 2,Episode 6,The Old Gods and the New,rodrik,"Gods help you, Theon Greyjoy. Now you are truly lost."
 2012-05-06,Season 2,Episode 6,The Old Gods and the New,brandon stark,"Theon, please don't."
-2012-05-06,Season 2,Episode 6,The Old Gods and the New,rickon,Do something!
+2012-05-06,Season 2,Episode 6,The Old Gods and the New,rickon stark,Do something!
 2012-05-06,Season 2,Episode 6,The Old Gods and the New,brandon stark,"I'll do anything, please! No, please stop it!"
 2012-05-06,Season 2,Episode 6,The Old Gods and the New,jon snow,"Ghost, stay with us. Ghost!"
 2012-05-06,Season 2,Episode 6,The Old Gods and the New,qhorin,There goes your pet.
@@ -5563,12 +5563,12 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2012-05-13,Season 2,Episode 7,A Man Without Honor,osha,Those people all love you. They would have given you whatever you needed.
 2012-05-13,Season 2,Episode 7,A Man Without Honor,brandon stark,"And if Theon found out, he'd hang them."
 2012-05-13,Season 2,Episode 7,A Man Without Honor,osha,The boy can't survive on walnuts.
-2012-05-13,Season 2,Episode 7,A Man Without Honor,rickon,I'm fine.
+2012-05-13,Season 2,Episode 7,A Man Without Honor,rickon stark,I'm fine.
 2012-05-13,Season 2,Episode 7,A Man Without Honor,osha,We've been walking since before sunrise. Even Hodor will tire.
 2012-05-13,Season 2,Episode 7,A Man Without Honor,hodor,Hodor.
 2012-05-13,Season 2,Episode 7,A Man Without Honor,osha,"Even you, sweet giant."
 2012-05-13,Season 2,Episode 7,A Man Without Honor,brandon stark,"Wait, I know that farm. I sent those two Winterfell orphans there."
-2012-05-13,Season 2,Episode 7,A Man Without Honor,rickon,Jack and Billy. They'll give us some food.
+2012-05-13,Season 2,Episode 7,A Man Without Honor,rickon stark,Jack and Billy. They'll give us some food.
 2012-05-13,Season 2,Episode 7,A Man Without Honor,brandon stark,"We can't risk it. If Theon tracks us here, he'll torture them until he finds out where we are."
 2012-05-13,Season 2,Episode 7,A Man Without Honor,rikon,Billy climbs a tree better than anyone.
 2012-05-13,Season 2,Episode 7,A Man Without Honor,osha,"You've never seen me climb a tree, little man."
@@ -6077,14 +6077,14 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2012-05-20,Season 2,Episode 8,The Prince of Winterfell,brienne,Do you take me for an idiot? In!
 2012-05-20,Season 2,Episode 8,The Prince of Winterfell,jaime lannister,"I took you for a fighter, a man Pardon. Woman of honor. Was I wrong? You're afraid."
 2012-05-20,Season 2,Episode 8,The Prince of Winterfell,brienne,"Maybe one day we'll find out, Kingslayer."
-2012-05-20,Season 2,Episode 8,The Prince of Winterfell,kevan,King's Landing will fall an hour after Stannis lands his force. It's not too late for King Joffrey and Cersei and the court to ride west to safety.
+2012-05-20,Season 2,Episode 8,The Prince of Winterfell,kevan lannister,King's Landing will fall an hour after Stannis lands his force. It's not too late for King Joffrey and Cersei and the court to ride west to safety.
 2012-05-20,Season 2,Episode 8,The Prince of Winterfell,tywin lannister,Surrender the Iron Throne?
-2012-05-20,Season 2,Episode 8,The Prince of Winterfell,kevan,Better than seeing their heads mounted on the city gates. Stannis will execute them all.
+2012-05-20,Season 2,Episode 8,The Prince of Winterfell,kevan lannister,Better than seeing their heads mounted on the city gates. Stannis will execute them all.
 2012-05-20,Season 2,Episode 8,The Prince of Winterfell,tywin lannister,"No, a king who runs will not be king for long. He's a Lannister. He'll stand and fight. Stannis, two days from the capital and the wolf at my doorstep."
-2012-05-20,Season 2,Episode 8,The Prince of Winterfell,kevan,The scouts assure us Robb Stark remains north of Ashemark.
+2012-05-20,Season 2,Episode 8,The Prince of Winterfell,kevan lannister,The scouts assure us Robb Stark remains north of Ashemark.
 2012-05-20,Season 2,Episode 8,The Prince of Winterfell,tywin lannister,"Ha! The last time the scouts assured us of Stark's movement, he lured us into a trap. Which is why my son is his prisoner."
 2012-05-20,Season 2,Episode 8,The Prince of Winterfell,tywin lannister,Too close to Casterly Rock.
-2012-05-20,Season 2,Episode 8,The Prince of Winterfell,kevan,He sent a splinter force to recapture Winterfell. The Greyjoys have done us a great favor. Stark won't risk marching on Casterly Rock until he's at full force.
+2012-05-20,Season 2,Episode 8,The Prince of Winterfell,kevan lannister,He sent a splinter force to recapture Winterfell. The Greyjoys have done us a great favor. Stark won't risk marching on Casterly Rock until he's at full force.
 2012-05-20,Season 2,Episode 8,The Prince of Winterfell,tywin lannister,He's a boy and he's never lost a battle. He'll risk anything at any time because he doesn't know enough to be afraid.
 2012-05-20,Season 2,Episode 8,The Prince of Winterfell,tywin lannister,"We'll ride at nightfall. I want a full night's march before he knows we're on the move. Clegane, you'll maintain a garrison here at Harrenhal. Track down this brotherhood and destroy them. The girl has proven herself a good servant. She'll stay on with you. See that he doesn't get drunk in the evenings. He's poor company when he's sober, but he's better at his work."
 2012-05-20,Season 2,Episode 8,The Prince of Winterfell,guard,You've got some questions to answer.
@@ -7010,7 +7010,7 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2012-06-03,Season 2,Episode 10,Valar Morghulis,jaqen hghar,"Farewell, Arya Stark."
 2012-06-03,Season 2,Episode 10,Valar Morghulis,brandon stark,"Osha, what are you doing?"
 2012-06-03,Season 2,Episode 10,Valar Morghulis,brandon stark,Tell us what medicine to get from your chambers.
-2012-06-03,Season 2,Episode 10,Valar Morghulis,rickon,We'll make you better.
+2012-06-03,Season 2,Episode 10,Valar Morghulis,rickon stark,We'll make you better.
 2012-06-03,Season 2,Episode 10,Valar Morghulis,luwin,I feel just fine.
 2012-06-03,Season 2,Episode 10,Valar Morghulis,brandon stark,They burned it down. They burned everything.
 2012-06-03,Season 2,Episode 10,Valar Morghulis,luwin,Not everything. Not you. But they may come back. You have to go. Put on your warmest clothes. Pack as much food as you can carry and go north.
@@ -8951,9 +8951,9 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2013-05-05,Season 3,Episode 6,The Climb,meera,"Thank you. See? Not so hard, is it? Thank you."
 2013-05-05,Season 3,Episode 6,The Climb,osha,Don't push me.
 2013-05-05,Season 3,Episode 6,The Climb,meera,Shh. I'm right here with you.
-2013-05-05,Season 3,Episode 6,The Climb,rickon,What's happening?
+2013-05-05,Season 3,Episode 6,The Climb,rickon stark,What's happening?
 2013-05-05,Season 3,Episode 6,The Climb,meera,I'm right here with you.
-2013-05-05,Season 3,Episode 6,The Climb,rickon,What's wrong with him?
+2013-05-05,Season 3,Episode 6,The Climb,rickon stark,What's wrong with him?
 2013-05-05,Season 3,Episode 6,The Climb,meera,The visions take their toll.
 2013-05-05,Season 3,Episode 6,The Climb,brandon stark,He's having one now?
 2013-05-05,Season 3,Episode 6,The Climb,jojen,I saw Jon Snow.
@@ -10049,8 +10049,8 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,meera,It's good land and there's no war up here. Why leave?
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,brandon stark,Wildlings.
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,brandon stark,"Sorry. But they come over the Wall and raid, steal, carry off women."
-2013-06-02,Season 3,Episode 9,The Rains of Castamere,rickon,Old Nan said they turn your skull into a cup and make you drink your own blood from it.
-2013-06-02,Season 3,Episode 9,The Rains of Castamere,rickon,That's what Old Nan said.
+2013-06-02,Season 3,Episode 9,The Rains of Castamere,rickon stark,Old Nan said they turn your skull into a cup and make you drink your own blood from it.
+2013-06-02,Season 3,Episode 9,The Rains of Castamere,rickon stark,That's what Old Nan said.
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,jojen,There's a storm coming.
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,brandon stark,I don't see any.
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,meera,It's as good a place to shelter as any.
@@ -10116,7 +10116,7 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,brandon stark,"Hodor, calm down. Hodor, be quiet!"
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,meera,What did you do?
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,brandon stark,Nothing. I don't know.
-2013-06-02,Season 3,Episode 9,The Rains of Castamere,rickon,What's That?
+2013-06-02,Season 3,Episode 9,The Rains of Castamere,rickon stark,What's That?
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,osha,That's a horse dying.
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,wildling,Bring them over here.
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,wildling,That was the last of them. The rest are dead.
@@ -10170,7 +10170,7 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,brandon stark,They can't do that north of the Wall?
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,jojen,No one can do that. Anywhere.
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,brandon stark,"When I was looking through Summer's eyes, I saw Jon."
-2013-06-02,Season 3,Episode 9,The Rains of Castamere,rickon,Where?
+2013-06-02,Season 3,Episode 9,The Rains of Castamere,rickon stark,Where?
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,brandon stark,He was with the wildlings. They tried to kill him but he got away.
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,osha,He'll be heading back to Castle Black then. That's where we should go.
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,brandon stark,"For all we know, Castle Black's already under attack. If this many wildlings got through-"
@@ -10178,19 +10178,19 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,brandon stark,Everything Jojen told me is true. You saw what I did to Hodor. I have to find the three-eyed raven.
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,osha,"Listen to me, little lord."
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,brandon stark,"Don't worry, I'm not asking you to come with me. It won't be safe for Rickon."
-2013-06-02,Season 3,Episode 9,The Rains of Castamere,rickon,Me? I'm coming with you.
+2013-06-02,Season 3,Episode 9,The Rains of Castamere,rickon stark,Me? I'm coming with you.
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,brandon stark,No. You and Osha and Shaggydog head for the Last Hearth. The Umbers are our bannermen. They'll protect you.
-2013-06-02,Season 3,Episode 9,The Rains of Castamere,rickon,I'm coming with you. I'm your brother. I have to protect you.
+2013-06-02,Season 3,Episode 9,The Rains of Castamere,rickon stark,I'm coming with you. I'm your brother. I have to protect you.
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,brandon stark,"Right now, I have to protect you."
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,brandon stark,"Robb's at war and I'm going beyond the Wall. If something happens to us, you're the heir to Winterfell."
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,brandon stark,Will you know how to find the last Hearth?
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,osha,You Southerners build your big castles and you never move. You're easy to find.
-2013-06-02,Season 3,Episode 9,The Rains of Castamere,rickon,We're not Southerners.
-2013-06-02,Season 3,Episode 9,The Rains of Castamere,rickon,And I don't want to leave you.
+2013-06-02,Season 3,Episode 9,The Rains of Castamere,rickon stark,We're not Southerners.
+2013-06-02,Season 3,Episode 9,The Rains of Castamere,rickon stark,And I don't want to leave you.
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,osha,"Shhh. Come here, little soldier. You and me, we're gonna have some adventures."
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,brandon stark,You don't have to do any of this.
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,osha,"Your family took me in and was good to me when they had no cause to be. Shhh. We'll be fine, you and me. The Umbers are great warriors. Even I heard about them growing up. They'll teach you how to swing a sword."
-2013-06-02,Season 3,Episode 9,The Rains of Castamere,rickon,I know how to swing a sword.
+2013-06-02,Season 3,Episode 9,The Rains of Castamere,rickon stark,I know how to swing a sword.
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,brandon stark,You're leaving now? It's the middle of the night.
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,osha,I learned to walk in darkness.
 2013-06-02,Season 3,Episode 9,The Rains of Castamere,osha,"Say your good-byes, little man."
@@ -12297,12 +12297,12 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2014-05-04,Season 4,Episode 5,First of His Name,knight,Stand to.
 2014-05-04,Season 4,Episode 5,First of His Name,knight,Stand to!
 2014-05-04,Season 4,Episode 5,First of His Name,knight,"Welcome back, Lord Baelish."
-2014-05-04,Season 4,Episode 5,First of His Name,robin,Uncle Petyr!
+2014-05-04,Season 4,Episode 5,First of His Name,robin arryn,Uncle Petyr!
 2014-05-04,Season 4,Episode 5,First of His Name,petyr baelish,My lord.
 2014-05-04,Season 4,Episode 5,First of His Name,petyr baelish,Oh. I have brought you a gift.
 2014-05-04,Season 4,Episode 5,First of His Name,lysa arryn,Lord Baelish.
 2014-05-04,Season 4,Episode 5,First of His Name,petyr baelish,My lady.
-2014-05-04,Season 4,Episode 5,First of His Name,robin,Look what Uncle Petyr brought me.
+2014-05-04,Season 4,Episode 5,First of His Name,robin arryn,Look what Uncle Petyr brought me.
 2014-05-04,Season 4,Episode 5,First of His Name,lysa arryn,A beautiful gift for a beautiful boy.
 2014-05-04,Season 4,Episode 5,First of His Name,sansa stark,"It's a pleasure to make your acquaintance, Lady Arryn. My name is Al..."
 2014-05-04,Season 4,Episode 5,First of His Name,lysa arryn,"Oh, do take down that hood, child. Don't you think know who you are? You think I'd let my intended leave the Eyrie on urgent business without knowing what that business was? I let him go so he could bring you here to me."
@@ -12313,11 +12313,11 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2014-05-04,Season 4,Episode 5,First of His Name,lysa arryn,No one can know you're here. It would put us in a very precarious position.
 2014-05-04,Season 4,Episode 5,First of His Name,sansa stark,I would never say a thing.
 2014-05-04,Season 4,Episode 5,First of His Name,lysa arryn,The Lannisters want to destroy us. They've been trying for years. Now they know what it feels like.
-2014-05-04,Season 4,Episode 5,First of His Name,robin,Mummy said they killed your mother and they chopped off your brother's head.
+2014-05-04,Season 4,Episode 5,First of His Name,robin arryn,Mummy said they killed your mother and they chopped off your brother's head.
 2014-05-04,Season 4,Episode 5,First of His Name,sansa stark,"They did, and my father's."
-2014-05-04,Season 4,Episode 5,First of His Name,robin,"They killed my father, too, with poison. I wanted to make the little Lannister baby man fly, but Mother said I couldn't."
+2014-05-04,Season 4,Episode 5,First of His Name,robin arryn,"They killed my father, too, with poison. I wanted to make the little Lannister baby man fly, but Mother said I couldn't."
 2014-05-04,Season 4,Episode 5,First of His Name,sansa stark,Make him fly?
-2014-05-04,Season 4,Episode 5,First of His Name,robin,Through the Moon Door.
+2014-05-04,Season 4,Episode 5,First of His Name,robin arryn,Through the Moon Door.
 2014-05-04,Season 4,Episode 5,First of His Name,lysa arryn,"And on top of everything else, they made you marry that filthy troll."
 2014-05-04,Season 4,Episode 5,First of His Name,sansa stark,They did. They made us both. Lord Tyrion didn't want to.
 2014-05-04,Season 4,Episode 5,First of His Name,lysa arryn,I don't believe that for a moment. Did he force himself on you?
@@ -13207,31 +13207,31 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2014-05-18,Season 4,Episode 7,Mockingbird,oberyn martell,I disagree.
 2014-05-18,Season 4,Episode 7,Mockingbird,oberyn martell,"I've come to the perfect place. I want to bring those who have wronged me to justice. And all those who have wronged me are right here. I will begin with Ser Gregor Clegane, who killed my sister's children and then raped her with their blood still on his hands before killing her, too. I will be your champion."
 2014-05-18,Season 4,Episode 7,Mockingbird,sansa stark,"Hello, Robin."
-2014-05-18,Season 4,Episode 7,Mockingbird,robin,What are you doing?
+2014-05-18,Season 4,Episode 7,Mockingbird,robin arryn,What are you doing?
 2014-05-18,Season 4,Episode 7,Mockingbird,sansa stark,"I'm building my home, Winterfell. At least I think I am. I haven't been back there in a very long time."
-2014-05-18,Season 4,Episode 7,Mockingbird,robin,Why did you leave?
+2014-05-18,Season 4,Episode 7,Mockingbird,robin arryn,Why did you leave?
 2014-05-18,Season 4,Episode 7,Mockingbird,sansa stark,It's a long story.
-2014-05-18,Season 4,Episode 7,Mockingbird,robin,I stay here in the Eyrie. Mother says it's dangerous on the roads and I have to keep myself safe because I'm the Lord of the Vale and the Lord of the Vale is a very important person.
+2014-05-18,Season 4,Episode 7,Mockingbird,robin arryn,I stay here in the Eyrie. Mother says it's dangerous on the roads and I have to keep myself safe because I'm the Lord of the Vale and the Lord of the Vale is a very important person.
 2014-05-18,Season 4,Episode 7,Mockingbird,sansa stark,"Yes, you certainly are."
-2014-05-18,Season 4,Episode 7,Mockingbird,robin,When will you go back?
+2014-05-18,Season 4,Episode 7,Mockingbird,robin arryn,When will you go back?
 2014-05-18,Season 4,Episode 7,Mockingbird,sansa stark,Probably never. My family doesn't live there anymore and someone burned it down.
-2014-05-18,Season 4,Episode 7,Mockingbird,robin,Oh. Does Winterfell have a Moon Door?
+2014-05-18,Season 4,Episode 7,Mockingbird,robin arryn,Oh. Does Winterfell have a Moon Door?
 2014-05-18,Season 4,Episode 7,Mockingbird,sansa stark,"No, I'm afraid not. It's not high up in the mountains. It's down on the ground."
-2014-05-18,Season 4,Episode 7,Mockingbird,robin,That sounds dangerous. How do you make people fly?
+2014-05-18,Season 4,Episode 7,Mockingbird,robin arryn,That sounds dangerous. How do you make people fly?
 2014-05-18,Season 4,Episode 7,Mockingbird,sansa stark,We don't.
-2014-05-18,Season 4,Episode 7,Mockingbird,robin,What do you do with all the bad people and the scary people and the people you don't like?
+2014-05-18,Season 4,Episode 7,Mockingbird,robin arryn,What do you do with all the bad people and the scary people and the people you don't like?
 2014-05-18,Season 4,Episode 7,Mockingbird,sansa stark,I never did anything with them at all. Girls didn't take part in that where I came from.
-2014-05-18,Season 4,Episode 7,Mockingbird,robin,"Well, I'm Lord of the Vale. When I grow up, I'll be able to fly anybody who bothers me. Or you. When we get married, you can tell me if you don't like somebody and then we can bring them back here and, whoosh! Right through the Moon Door."
+2014-05-18,Season 4,Episode 7,Mockingbird,robin arryn,"Well, I'm Lord of the Vale. When I grow up, I'll be able to fly anybody who bothers me. Or you. When we get married, you can tell me if you don't like somebody and then we can bring them back here and, whoosh! Right through the Moon Door."
 2014-05-18,Season 4,Episode 7,Mockingbird,sansa stark,I like the sound of that.
-2014-05-18,Season 4,Episode 7,Mockingbird,robin,Let's put a Moon Door in your Winterfell.
+2014-05-18,Season 4,Episode 7,Mockingbird,robin arryn,Let's put a Moon Door in your Winterfell.
 2014-05-18,Season 4,Episode 7,Mockingbird,sansa stark,All right.
-2014-05-18,Season 4,Episode 7,Mockingbird,robin,It can go in here in this big tower.
+2014-05-18,Season 4,Episode 7,Mockingbird,robin arryn,It can go in here in this big tower.
 2014-05-18,Season 4,Episode 7,Mockingbird,sansa stark,Careful. You've ruined it. Now I'm going to have to rebuild the whole thing.
-2014-05-18,Season 4,Episode 7,Mockingbird,robin,I didn't ruin it.
+2014-05-18,Season 4,Episode 7,Mockingbird,robin arryn,I didn't ruin it.
 2014-05-18,Season 4,Episode 7,Mockingbird,sansa stark,You did.
-2014-05-18,Season 4,Episode 7,Mockingbird,robin,It was already ruined because it didn't have a Moon Door. I was fixing it.
+2014-05-18,Season 4,Episode 7,Mockingbird,robin arryn,It was already ruined because it didn't have a Moon Door. I was fixing it.
 2014-05-18,Season 4,Episode 7,Mockingbird,sansa stark,Knocking things down isn't fixing them. It's ruining them.
-2014-05-18,Season 4,Episode 7,Mockingbird,robin,I didn't ruin it!
+2014-05-18,Season 4,Episode 7,Mockingbird,robin arryn,I didn't ruin it!
 2014-05-18,Season 4,Episode 7,Mockingbird,sansa stark,You're being stupid.
 2014-05-18,Season 4,Episode 7,Mockingbird,sansa stark,"Robin, I'm sorry, I-"
 2014-05-18,Season 4,Episode 7,Mockingbird,petyr baelish,Children.
@@ -13286,23 +13286,23 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2014-06-01,Season 4,Episode 8,The Mountain and the Viper,jon snow,You couldn't have known.
 2014-06-01,Season 4,Episode 8,The Mountain and the Viper,sam tarly,Of course I couldo ve known. They were raiding the villages close by.
 2014-06-01,Season 4,Episode 8,The Mountain and the Viper,grenn,And we just cower in here while they slaughter our brothers?
-2014-06-01,Season 4,Episode 8,The Mountain and the Viper,ed,Our brothers had orders to stay at Castle Black.
+2014-06-01,Season 4,Episode 8,The Mountain and the Viper,edd,Our brothers had orders to stay at Castle Black.
 2014-06-01,Season 4,Episode 8,The Mountain and the Viper,grenn,"Oh, so it's alright then?! Black Jack and Kegs and Mully chopped to pieces 'cause they broke the rules?!"
-2014-06-01,Season 4,Episode 8,The Mountain and the Viper,ed,I didn't say it was alright! I'm sayin' they shouldn't have been there.
+2014-06-01,Season 4,Episode 8,The Mountain and the Viper,edd,I didn't say it was alright! I'm sayin' they shouldn't have been there.
 2014-06-01,Season 4,Episode 8,The Mountain and the Viper,grenn,We pledged to guard the realms of men.
 2014-06-01,Season 4,Episode 8,The Mountain and the Viper,sam tarly,She's dead because of me.
 2014-06-01,Season 4,Episode 8,The Mountain and the Viper,grenn,We can't even guard Mole's Town.
 2014-06-01,Season 4,Episode 8,The Mountain and the Viper,jon snow,"We can't go after them, you know that. That's what they want."
 2014-06-01,Season 4,Episode 8,The Mountain and the Viper,sam tarly,Little Same. As if I'd cut their throats myself.
 2014-06-01,Season 4,Episode 8,The Mountain and the Viper,pyp,"Maybe she managed to hide herself. I thought one of you was dead, you went North with Mormont and no one came back. Not for ages. But then you did."
-2014-06-01,Season 4,Episode 8,The Mountain and the Viper,ed,She survived Craster and he was the worst shit I've ever met. She survived the long march to the wall. She survived a white walker for fuck's sake. She might've got out.
+2014-06-01,Season 4,Episode 8,The Mountain and the Viper,edd,She survived Craster and he was the worst shit I've ever met. She survived the long march to the wall. She survived a white walker for fuck's sake. She might've got out.
 2014-06-01,Season 4,Episode 8,The Mountain and the Viper,sam tarly,She might have.
 2014-06-01,Season 4,Episode 8,The Mountain and the Viper,jon snow,"If they hit Mole's Town, then we're next. Mance's army must be close."
-2014-06-01,Season 4,Episode 8,The Mountain and the Viper,ed,A hundred thousand.
+2014-06-01,Season 4,Episode 8,The Mountain and the Viper,edd,A hundred thousand.
 2014-06-01,Season 4,Episode 8,The Mountain and the Viper,grenn,"And there's what, 5 of us left."
-2014-06-01,Season 4,Episode 8,The Mountain and the Viper,ed,"If you're counting Black Jack, Kegs, and Mully. A hundred and two."
+2014-06-01,Season 4,Episode 8,The Mountain and the Viper,edd,"If you're counting Black Jack, Kegs, and Mully. A hundred and two."
 2014-06-01,Season 4,Episode 8,The Mountain and the Viper,pyp,How do a hundred and two men stop a thousand?
-2014-06-01,Season 4,Episode 8,The Mountain and the Viper,ed,"Whoever dies last, be a good lad and burn the rest of us. Once I'm done with this world, I don't want to come back."
+2014-06-01,Season 4,Episode 8,The Mountain and the Viper,edd,"Whoever dies last, be a good lad and burn the rest of us. Once I'm done with this world, I don't want to come back."
 2014-06-01,Season 4,Episode 8,The Mountain and the Viper,daenerys targaryen,You think he was spying on you?
 2014-06-01,Season 4,Episode 8,The Mountain and the Viper,missandei,"No, not spying."
 2014-06-01,Season 4,Episode 8,The Mountain and the Viper,daenerys targaryen,The Dothraki think outsiders are ridiculous taking shame in the naked body. They make love under the stars for the whole Khalasar to see.
@@ -13514,9 +13514,9 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2014-06-01,Season 4,Episode 8,The Mountain and the Viper,guard,Who would pass the Bloody Gate?
 2014-06-01,Season 4,Episode 8,The Mountain and the Viper,sandor clegane,"The bloody Hound, Sandor Clegane. And his...traveling companion Arya Stark, niece of your lady Lysa Arryn."
 2014-06-01,Season 4,Episode 8,The Mountain and the Viper,guard,Then I offer my condolences. Lady Arryn died. Three days ago.
-2014-06-01,Season 4,Episode 8,The Mountain and the Viper,robin,"I've never left home before, Uncle Petyr. I'm afraid to leave."
+2014-06-01,Season 4,Episode 8,The Mountain and the Viper,robin arryn,"I've never left home before, Uncle Petyr. I'm afraid to leave."
 2014-06-01,Season 4,Episode 8,The Mountain and the Viper,petyr baelish,You shouldn't be.
-2014-06-01,Season 4,Episode 8,The Mountain and the Viper,robin,"The Lord of the Vale belongs in the Eyrie, Mother said. She said it's not safe outside."
+2014-06-01,Season 4,Episode 8,The Mountain and the Viper,robin arryn,"The Lord of the Vale belongs in the Eyrie, Mother said. She said it's not safe outside."
 2014-06-01,Season 4,Episode 8,The Mountain and the Viper,petyr baelish,It wasn't safe for her inside. People die at their dinner tables. They die in their beds. They die squatting over their chamber pots. Everybody dies sooner or later. Don't worry about your death. Worry about your life. Take charge of your life for as long as it lasts. That is what it means to be Lord of the Vale.
 2014-06-01,Season 4,Episode 8,The Mountain and the Viper,sansa stark,Shall we go?
 2014-06-01,Season 4,Episode 8,The Mountain and the Viper,tyrion lannister,Wine always helps. I thank you for it. Trial by combat. Deciding a man's guilt or innocence in the eyes of the gods by having two other men hack each other to pieces. Tells you something about the gods. How much longer?
@@ -13719,7 +13719,7 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2014-06-08,Season 4,Episode 9,The Watchers on the Wall,jon snow,They won't summit before dawn.
 2014-06-08,Season 4,Episode 9,The Watchers on the Wall,grenn,How do you know that?
 2014-06-08,Season 4,Episode 9,The Watchers on the Wall,jon snow,Because I've made that claim.
-2014-06-08,Season 4,Episode 9,The Watchers on the Wall,ed,I think they're in a bigger hurry than you were.
+2014-06-08,Season 4,Episode 9,The Watchers on the Wall,edd,I think they're in a bigger hurry than you were.
 2014-06-08,Season 4,Episode 9,The Watchers on the Wall,jon snow,Knock! Draw! Loose!
 2014-06-08,Season 4,Episode 9,The Watchers on the Wall,pyp,"I got one. Right through the heart, he's dead."
 2014-06-08,Season 4,Episode 9,The Watchers on the Wall,sam tarly,"Oh, is it over?"
@@ -13727,13 +13727,13 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2014-06-08,Season 4,Episode 9,The Watchers on the Wall,sam tarly,Well then. *hands Pyp a loaded crossbow*
 2014-06-08,Season 4,Episode 9,The Watchers on the Wall,sam tarly,"You're alright. You're alright. I'll get help. Shh, shh. Maester Aemon is coming, he's gonna make it alright."
 2014-06-08,Season 4,Episode 9,The Watchers on the Wall,jon snow,Now!
-2014-06-08,Season 4,Episode 9,The Watchers on the Wall,ed,Now!
+2014-06-08,Season 4,Episode 9,The Watchers on the Wall,edd,Now!
 2014-06-08,Season 4,Episode 9,The Watchers on the Wall,jon snow,"to Grenn* The outer gate won't hold. Take five men, hold the inner gate."
 2014-06-08,Season 4,Episode 9,The Watchers on the Wall,grenn,Alright.
 2014-06-08,Season 4,Episode 9,The Watchers on the Wall,jon snow,grabs Grenn's arm* Hold the gate. If they make it through...
 2014-06-08,Season 4,Episode 9,The Watchers on the Wall,grenn,"They won't. Come on Hill! And you Cooper! You three, on me! Come on you lazy bastards!"
 2014-06-08,Season 4,Episode 9,The Watchers on the Wall,jon snow,Oil!
-2014-06-08,Season 4,Episode 9,The Watchers on the Wall,ed,Oil on the ramp!
+2014-06-08,Season 4,Episode 9,The Watchers on the Wall,edd,Oil on the ramp!
 2014-06-08,Season 4,Episode 9,The Watchers on the Wall,alliser thorne,Protect the gate!
 2014-06-08,Season 4,Episode 9,The Watchers on the Wall,alliser thorne,Hold the fucking gate! Hold it!
 2014-06-08,Season 4,Episode 9,The Watchers on the Wall,sam tarly,to Grenn* We need more men down here.
@@ -13747,7 +13747,7 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2014-06-08,Season 4,Episode 9,The Watchers on the Wall,sam tarly,The Wildlings are over the walls. Ser Alliser has fallen. The castle walls can't stand much longer.
 2014-06-08,Season 4,Episode 9,The Watchers on the Wall,jon snow,"Ed. You have The Wall. If they try the mammoths again, drop fire on them. If the climbers get too high, drop the scythe on them."
 2014-06-08,Season 4,Episode 9,The Watchers on the Wall,jon snow,Two brothers now fight with me.
-2014-06-08,Season 4,Episode 9,The Watchers on the Wall,ed,"Might as well enjoy our last night, right boys? Light the fuckers up. Knock! Draw! Loose!"
+2014-06-08,Season 4,Episode 9,The Watchers on the Wall,edd,"Might as well enjoy our last night, right boys? Light the fuckers up. Knock! Draw! Loose!"
 2014-06-08,Season 4,Episode 9,The Watchers on the Wall,donnel,How are we gonna stop that?
 2014-06-08,Season 4,Episode 9,The Watchers on the Wall,cooper,We shot twenty-eight arrows in him already.
 2014-06-08,Season 4,Episode 9,The Watchers on the Wall,grenn,"You heard Jon, we hold the gate."
@@ -13768,10 +13768,10 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2014-06-08,Season 4,Episode 9,The Watchers on the Wall,ygritte,We shouldo ve stayed in that cave.
 2014-06-08,Season 4,Episode 9,The Watchers on the Wall,jon snow,We'll go back there.
 2014-06-08,Season 4,Episode 9,The Watchers on the Wall,ygritte,"You know nothing, Jon Snow."
-2014-06-08,Season 4,Episode 9,The Watchers on the Wall,ed,"Drop the scythe, boys!"
-2014-06-08,Season 4,Episode 9,The Watchers on the Wall,ed,Hoister up!
-2014-06-08,Season 4,Episode 9,The Watchers on the Wall,ed,They've had enough for one night.
-2014-06-08,Season 4,Episode 9,The Watchers on the Wall,ed,Don't cheer too loud. They still outnumber us a thousand to one.
+2014-06-08,Season 4,Episode 9,The Watchers on the Wall,edd,"Drop the scythe, boys!"
+2014-06-08,Season 4,Episode 9,The Watchers on the Wall,edd,Hoister up!
+2014-06-08,Season 4,Episode 9,The Watchers on the Wall,edd,They've had enough for one night.
+2014-06-08,Season 4,Episode 9,The Watchers on the Wall,edd,Don't cheer too loud. They still outnumber us a thousand to one.
 2014-06-08,Season 4,Episode 9,The Watchers on the Wall,jon snow,"Tormund. It's over, let it end."
 2014-06-08,Season 4,Episode 9,The Watchers on the Wall,tormund,This is how a man ends.
 2014-06-08,Season 4,Episode 9,The Watchers on the Wall,jon snow,Put him in chains. We'll question him later.
@@ -14287,9 +14287,9 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2015-04-12,Season 5,Episode 1,The Wars to Come,lancel lannister,My deepest sympathies.
 2015-04-12,Season 5,Episode 1,The Wars to Come,kevan lannister,I apologize for my son's appearance.
 2015-04-12,Season 5,Episode 1,The Wars to Come,cersei lannister,"Uncle, it's quite alright."
-2015-04-12,Season 5,Episode 1,The Wars to Come,kevan,"They call themselves sparrows. Bloody fanatics. Religion has its place, of course, but at a certain point… They never would have come to the capital when Tywin was alive."
+2015-04-12,Season 5,Episode 1,The Wars to Come,kevan lannister,"They call themselves sparrows. Bloody fanatics. Religion has its place, of course, but at a certain point… They never would have come to the capital when Tywin was alive."
 2015-04-12,Season 5,Episode 1,The Wars to Come,cersei lannister,I'm sure he'll grow out of it. Whatever it is. Excuse me.
-2015-04-12,Season 5,Episode 1,The Wars to Come,kevan,Of course.
+2015-04-12,Season 5,Episode 1,The Wars to Come,kevan lannister,Of course.
 2015-04-12,Season 5,Episode 1,The Wars to Come,cersei lannister,Your wounds from the Blackwater seem to have healed.
 2015-04-12,Season 5,Episode 1,The Wars to Come,lancel lannister,It wasn't my wounds that needed healing.
 2015-04-12,Season 5,Episode 1,The Wars to Come,cersei lannister,What can I do for you?
@@ -14654,7 +14654,7 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2015-04-19,Season 5,Episode 2,The House of Black and White,cersei lannister,Very good.
 2015-04-19,Season 5,Episode 2,The House of Black and White,qyburn,Over there will be fine.
 2015-04-19,Season 5,Episode 2,The House of Black and White,meryn,You heard the man. Over there.
-2015-04-19,Season 5,Episode 2,The House of Black and White,kevan,You're the Hand of the King?
+2015-04-19,Season 5,Episode 2,The House of Black and White,kevan lannister,You're the Hand of the King?
 2015-04-19,Season 5,Episode 2,The House of Black and White,cersei lannister,"No, Uncle. Clearly it would not be appropriate for a woman to assume that role. I'm merely advising my son until he comes of age and chooses a Hand for himself."
 2015-04-19,Season 5,Episode 2,The House of Black and White,mace tyrell,"Your Grace, I would be willing to serve provisionally as the King's Hand until he becomes old enough--"
 2015-04-19,Season 5,Episode 2,The House of Black and White,cersei lannister,"You're a good man, Lord Tyrell, but I don't imagine you'll have the time. In addition to being Master of Ships, the king has appointed you Master of Coin."
@@ -14667,17 +14667,17 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2015-04-19,Season 5,Episode 2,The House of Black and White,cersei lannister,"The qualification of loyalty, Grand Maester. That's far more than the eunuch ever had. Far more than many ever have."
 2015-04-19,Season 5,Episode 2,The House of Black and White,pycelle,I must say I cannot see--
 2015-04-19,Season 5,Episode 2,The House of Black and White,cersei lannister,"Uncle Kevan, in light of your position as commander of the Lannister armies, it would please the king if you would serve as his Master of War. No man living better deserves the title."
-2015-04-19,Season 5,Episode 2,The House of Black and White,kevan,That is kind of you to say. I would like to hear it from the king himself.
+2015-04-19,Season 5,Episode 2,The House of Black and White,kevan lannister,That is kind of you to say. I would like to hear it from the king himself.
 2015-04-19,Season 5,Episode 2,The House of Black and White,cersei lannister,The king is very busy at this moment.
-2015-04-19,Season 5,Episode 2,The House of Black and White,kevan,"He should be here, learning what it means to rule."
+2015-04-19,Season 5,Episode 2,The House of Black and White,kevan lannister,"He should be here, learning what it means to rule."
 2015-04-19,Season 5,Episode 2,The House of Black and White,cersei lannister,"He is learning. On this occasion, in his capacity as ruler, he's asked me to speak on his behalf."
-2015-04-19,Season 5,Episode 2,The House of Black and White,kevan,I returned to the capital to pay my respects to my brother. And to you. And to serve the king. I did not return to the capital to serve as your puppet. To watch you stack the small council with sycophants. Sending your own brother away so he wouldn't be--
+2015-04-19,Season 5,Episode 2,The House of Black and White,kevan lannister,I returned to the capital to pay my respects to my brother. And to you. And to serve the king. I did not return to the capital to serve as your puppet. To watch you stack the small council with sycophants. Sending your own brother away so he wouldn't be--
 2015-04-19,Season 5,Episode 2,The House of Black and White,cersei lannister,My brother has left the capital to lead a sensitive diplomatic mission.
-2015-04-19,Season 5,Episode 2,The House of Black and White,kevan,What mission?
+2015-04-19,Season 5,Episode 2,The House of Black and White,kevan lannister,What mission?
 2015-04-19,Season 5,Episode 2,The House of Black and White,cersei lannister,That is not your concern as Master of War.
-2015-04-19,Season 5,Episode 2,The House of Black and White,kevan,I do not recognize your authority to dictate what is and is not my concern. You are the Queen Mother. Nothing more.
+2015-04-19,Season 5,Episode 2,The House of Black and White,kevan lannister,I do not recognize your authority to dictate what is and is not my concern. You are the Queen Mother. Nothing more.
 2015-04-19,Season 5,Episode 2,The House of Black and White,cersei lannister,You would abandon your king in his time of need?
-2015-04-19,Season 5,Episode 2,The House of Black and White,kevan,"If he wants to send for me, I will be waiting for him. At Casterly Rock."
+2015-04-19,Season 5,Episode 2,The House of Black and White,kevan lannister,"If he wants to send for me, I will be waiting for him. At Casterly Rock."
 2015-04-19,Season 5,Episode 2,The House of Black and White,shireen baratheon,Come on. You know this one. It looks like an animal.
 2015-04-19,Season 5,Episode 2,The House of Black and White,gilly,Snake. Snake... S! It's an S!
 2015-04-19,Season 5,Episode 2,The House of Black and White,shireen baratheon,"Right, very good!"
@@ -15890,16 +15890,16 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",cersei lannister,And I'll l know you're a man of your word when I see Sansa Stark's head on a spike.
 2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",petyr baelish,As I said. I live to serve.
 2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",trystane,I'm going to ask him tomorrow.
-2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",myrcella,What if he says no?
+2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",myrcella baratheon,What if he says no?
 2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",trystane,He won't. You've waited long enough. I want you to be my wife now. What is it?
-2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",myrcella,"Do you want to marry me because our families arranged it, or do you…"
-2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",myrcella,We can't. Not yet.
+2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",myrcella baratheon,"Do you want to marry me because our families arranged it, or do you…"
+2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",myrcella baratheon,We can't. Not yet.
 2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",trystane,Why not?
-2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",myrcella,You know why not. Someone will see.
+2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",myrcella baratheon,You know why not. Someone will see.
 2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",trystane,You are going to be my wife. I am going to be your husband. We are allowed to walk through the gardens together.
-2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",myrcella,How many other girls have you walked through these gardens?
+2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",myrcella baratheon,How many other girls have you walked through these gardens?
 2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",trystane,I like the way your eyes go squinty when you're jealous.
-2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",myrcella,"They don't go squinty, and you didnt answer the question."
+2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",myrcella baratheon,"They don't go squinty, and you didnt answer the question."
 2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",doran,They make a lovely couple. A Lannister and a Martell. They have no idea how dangerous that is. We must protect them.
 2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",areo,"Yes, my prince."
 2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",doran,You have not had to use that axe of yours in a very long time. I hope you remember how.
@@ -15918,22 +15918,22 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",sand snakes,For Oberyn.
 2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",bronn,"Well, she's made herself at home."
 2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",jaime lannister,Myrcella.
-2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",myrcella,"Uncle Jaime? I don't understand, what are you doing here?"
+2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",myrcella baratheon,"Uncle Jaime? I don't understand, what are you doing here?"
 2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",jaime lannister,Let's speak in private.
 2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",trystane,I am Trystane Martell.
-2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",myrcella,Trystane is my intended.
+2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",myrcella baratheon,Trystane is my intended.
 2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",jaime lannister,Excellent. Good to meet you.
 2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",trystane,"We weren't expecting you, Ser Jaime."
 2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",bronn,"Why don't you let them have some time alone, son?"
 2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",bronn,Let's not do something stupid.
-2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",myrcella,No!
+2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",myrcella baratheon,No!
 2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",bronn,That was something stupid.
 2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",jaime lannister,"We have to go, Myrcella, now."
-2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",myrcella,You hurt him!
+2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",myrcella baratheon,You hurt him!
 2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",jaime lannister,"You'll be fine, I promise, but we have to--"
 2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",bronn,Oh for fuck's sake.
 2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",obara,You're coming with me.
-2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",myrcella,I don't want to!
+2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",myrcella baratheon,I don't want to!
 2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",obara,"I wasn't asking, princess."
 2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",areo,Drop you weapons!
 2015-05-17,Season 5,Episode 6,"Unbowed, Unbent, Unbroken",obara,I am Obara Sand. Daughter of Oberyn Martell. I fight for Dorne. Who do you fight for?
@@ -16261,17 +16261,17 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2015-05-24,Season 5,Episode 7,The Gift,tommen lannister,I know.
 2015-05-24,Season 5,Episode 7,The Gift,cersei lannister,"No you don't. You can't possibly. Not until you have children of your own. I would do anything for you. Anything to keep you from harm. I would burn cities to the ground. That is all that matters. You and your sister. From the moment you came into this world, my boy. My only boy."
 2015-05-24,Season 5,Episode 7,The Gift,areo,Prince Doran hopes this satisfies your concerns about the princess's wellbeing.
-2015-05-24,Season 5,Episode 7,The Gift,myrcella,You looked different when I left. You had more hair.
+2015-05-24,Season 5,Episode 7,The Gift,myrcella baratheon,You looked different when I left. You had more hair.
 2015-05-24,Season 5,Episode 7,The Gift,jaime lannister,And more hands. How's Trystane?
-2015-05-24,Season 5,Episode 7,The Gift,myrcella,He'll be alright.
+2015-05-24,Season 5,Episode 7,The Gift,myrcella baratheon,He'll be alright.
 2015-05-24,Season 5,Episode 7,The Gift,jaime lannister,I'm sorry for that. It wasn't supposed to happen that way.
-2015-05-24,Season 5,Episode 7,The Gift,myrcella,Why is it happening at all?
+2015-05-24,Season 5,Episode 7,The Gift,myrcella baratheon,Why is it happening at all?
 2015-05-24,Season 5,Episode 7,The Gift,jaime lannister,Your mother's worried about you. Threats have been made. Dorne is too dangerous for you. I've come to take you home.
-2015-05-24,Season 5,Episode 7,The Gift,myrcella,"This is my home, this has been my home for years. I didn't want to come here but she told me to. I did what she said, I did my duty and now she's forcing me to go back?"
+2015-05-24,Season 5,Episode 7,The Gift,myrcella baratheon,"This is my home, this has been my home for years. I didn't want to come here but she told me to. I did what she said, I did my duty and now she's forcing me to go back?"
 2015-05-24,Season 5,Episode 7,The Gift,jaime lannister,It's for your own good. These are complicated matters.
-2015-05-24,Season 5,Episode 7,The Gift,myrcella,"It's not complicated at all, it's simple. I love Trystane, I'm going to marry him, and we're staying right here."
+2015-05-24,Season 5,Episode 7,The Gift,myrcella baratheon,"It's not complicated at all, it's simple. I love Trystane, I'm going to marry him, and we're staying right here."
 2015-05-24,Season 5,Episode 7,The Gift,jaime lannister,I don't understand.
-2015-05-24,Season 5,Episode 7,The Gift,myrcella,Of course you don't! You don't know me!
+2015-05-24,Season 5,Episode 7,The Gift,myrcella baratheon,Of course you don't! You don't know me!
 2015-05-24,Season 5,Episode 7,The Gift,bronn,"Brothers oh brothers, my days here are done, the Dornishman's taken my life. Bur what does it matter, for all men must die, and I've tasted the Dornishman's wife! Yes I've tasted the Dornishman's wife!"
 2015-05-24,Season 5,Episode 7,The Gift,tyene,He's got a good voice.
 2015-05-24,Season 5,Episode 7,The Gift,obara,We're lucky he's a singer. If he were a fighter we might have been in trouble.
@@ -16709,18 +16709,18 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2015-06-07,Season 5,Episode 9,The Dance of Dragons,jaime lannister,Prince Doran.
 2015-06-07,Season 5,Episode 9,The Dance of Dragons,doran,"Forgive us, we started without you. Please, sit."
 2015-06-07,Season 5,Episode 9,The Dance of Dragons,jaime lannister,Princess Myrcella.
-2015-06-07,Season 5,Episode 9,The Dance of Dragons,myrcella,Uncle.
+2015-06-07,Season 5,Episode 9,The Dance of Dragons,myrcella baratheon,Uncle.
 2015-06-07,Season 5,Episode 9,The Dance of Dragons,jaime lannister,What a lovely dress.
-2015-06-07,Season 5,Episode 9,The Dance of Dragons,myrcella,You don't like it?
+2015-06-07,Season 5,Episode 9,The Dance of Dragons,myrcella baratheon,You don't like it?
 2015-06-07,Season 5,Episode 9,The Dance of Dragons,jaime lannister,You must be cold.
-2015-06-07,Season 5,Episode 9,The Dance of Dragons,myrcella,Not at all. The Dornish climate agrees with me.
+2015-06-07,Season 5,Episode 9,The Dance of Dragons,myrcella baratheon,Not at all. The Dornish climate agrees with me.
 2015-06-07,Season 5,Episode 9,The Dance of Dragons,jaime lannister,Prince Trystane. How's your jaw?
 2015-06-07,Season 5,Episode 9,The Dance of Dragons,trystane,A fleabite.
 2015-06-07,Season 5,Episode 9,The Dance of Dragons,ellaria,What are you doing in Dorne?
 2015-06-07,Season 5,Episode 9,The Dance of Dragons,jaime lannister,"Looking out for the safety of my niece, the princess Myrcella."
 2015-06-07,Season 5,Episode 9,The Dance of Dragons,doran,And rather than send a raven or speak to me directly you decided to enter my country in secret and abduct our guest by force.
 2015-06-07,Season 5,Episode 9,The Dance of Dragons,jaime lannister,We received a threatening message. The princess's necklace in the jaws of a viper.
-2015-06-07,Season 5,Episode 9,The Dance of Dragons,myrcella,That necklace was stolen from my room.
+2015-06-07,Season 5,Episode 9,The Dance of Dragons,myrcella baratheon,That necklace was stolen from my room.
 2015-06-07,Season 5,Episode 9,The Dance of Dragons,jaime lannister,Ah. Excellent. The last meal before the beheading.
 2015-06-07,Season 5,Episode 9,The Dance of Dragons,doran,We can't behead you. Many in Dorne want war. But I've seen war. I've seen the bodies piled on the battlefields. I've seen the orphans starving in the cities. I don't want to lead my people into that hell.
 2015-06-07,Season 5,Episode 9,The Dance of Dragons,ellaria,"No, you want to break bread with the Lannisters."
@@ -17007,20 +17007,20 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2015-06-14,Season 5,Episode 10,Mother’s Mercy,tyene,"You want a good girl, but you need the bad pussy."
 2015-06-14,Season 5,Episode 10,Mother’s Mercy,jaime lannister,"Whenever you're ready, My Lord."
 2015-06-14,Season 5,Episode 10,Mother’s Mercy,jaime lannister,Try not to lose it this time.
-2015-06-14,Season 5,Episode 10,Mother’s Mercy,myrcella,I'll never take it off again.
+2015-06-14,Season 5,Episode 10,Mother’s Mercy,myrcella baratheon,I'll never take it off again.
 2015-06-14,Season 5,Episode 10,Mother’s Mercy,jaime lannister,I know you didn't want to leave Dorne. But I'm glad you're coming home. Your mother's desperate to see you. And I'm glad Trystane's coming with us. He seems like a nice boy. You're lucky. Arranged marriages are rarely so… so well arranged.
-2015-06-14,Season 5,Episode 10,Mother’s Mercy,myrcella,Do you think mother will like him.
+2015-06-14,Season 5,Episode 10,Mother’s Mercy,myrcella baratheon,Do you think mother will like him.
 2015-06-14,Season 5,Episode 10,Mother’s Mercy,jaime lannister,"If she sees you're happy, I'm sure she will."
-2015-06-14,Season 5,Episode 10,Mother’s Mercy,myrcella,And you really believe that?
+2015-06-14,Season 5,Episode 10,Mother’s Mercy,myrcella baratheon,And you really believe that?
 2015-06-14,Season 5,Episode 10,Mother’s Mercy,jaime lannister,Have you ever known your mother to like anyone aside from her children?
-2015-06-14,Season 5,Episode 10,Mother’s Mercy,myrcella,She likes you.
+2015-06-14,Season 5,Episode 10,Mother’s Mercy,myrcella baratheon,She likes you.
 2015-06-14,Season 5,Episode 10,Mother’s Mercy,jaime lannister,"I'm not so sure about that. Listen. There's something I've wanted to tell you. Something I should have told you long ago. So. Now that you've seen more of the world, you've learned how complicated things can be. People can be. The Lannisters and the Martells have hated each other for years, but you've fallen in love with Trystane. It was an accident, really, I mean what were the chances? You happen to fall in love with the man you were assigned to marry? My point is… we don't choose whom we love. We just… It's beyond our control. I sound like an idiot."
-2015-06-14,Season 5,Episode 10,Mother’s Mercy,myrcella,No you don't.
+2015-06-14,Season 5,Episode 10,Mother’s Mercy,myrcella baratheon,No you don't.
 2015-06-14,Season 5,Episode 10,Mother’s Mercy,jaime lannister,What I'm trying to say. What I'm trying and failing to say…
-2015-06-14,Season 5,Episode 10,Mother’s Mercy,myrcella,I know what you're trying to say.
+2015-06-14,Season 5,Episode 10,Mother’s Mercy,myrcella baratheon,I know what you're trying to say.
 2015-06-14,Season 5,Episode 10,Mother’s Mercy,jaime lannister,No. I'm afraid you don't.
-2015-06-14,Season 5,Episode 10,Mother’s Mercy,myrcella,I do.
-2015-06-14,Season 5,Episode 10,Mother’s Mercy,myrcella,I know. About you and mother. I think a part of me always knew. And I'm glad. I'm glad that you're my father.
+2015-06-14,Season 5,Episode 10,Mother’s Mercy,myrcella baratheon,I do.
+2015-06-14,Season 5,Episode 10,Mother’s Mercy,myrcella baratheon,I know. About you and mother. I think a part of me always knew. And I'm glad. I'm glad that you're my father.
 2015-06-14,Season 5,Episode 10,Mother’s Mercy,jaime lannister,Myrcella?
 2015-06-14,Season 5,Episode 10,Mother’s Mercy,jaime lannister,Myrcella?!
 2015-06-14,Season 5,Episode 10,Mother’s Mercy,jaime lannister,Myrcella?! Myrcella?!
@@ -17816,20 +17816,20 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2016-05-08,Season 6,Episode 3,Oathbreaker,cersei lannister,"Don't stop at the city I want little birds in Dorne, in Highgarden, in the North If someone is planning on making our losses their gains I want to hear it If someone is laughing at the queen who walk naked through the streets covered in shit, I want to hear I want to know who they are I want to where they are"
 2016-05-08,Season 6,Episode 3,Oathbreaker,maester pycelle,"As bad as Lord Varys was Varys was, Qyburn is worse I told them all I told them He's arrogant, dangerous You don't get thrown out of the Citadel without good reason And no one listened to my advice, so here we are"
 2016-05-08,Season 6,Episode 3,Oathbreaker,maester pycelle,"And what he's done to Gregor Clegane is an abomination We never sanctioned this, this experiment And I for one think it would be in our best interest to have the beast dest --"
-2016-05-08,Season 6,Episode 3,Oathbreaker,kevan,Can I help you
+2016-05-08,Season 6,Episode 3,Oathbreaker,kevan lannister,Can I help you
 2016-05-08,Season 6,Episode 3,Oathbreaker,cersei lannister,Why are you here
 2016-05-08,Season 6,Episode 3,Oathbreaker,mace tyrell,My mother...
 2016-05-08,Season 6,Episode 3,Oathbreaker,lady olenna,"I was invited, my dear, o help deal with several troublesome issues, such as the queen's imprisonment"
 2016-05-08,Season 6,Episode 3,Oathbreaker,cersei lannister,Thank you for bringing it up It's well past time we addressed the abuses I endured
 2016-05-08,Season 6,Episode 3,Oathbreaker,lady olenna,Margaery is the queen You are not the queen because you're not married to the king I do appreciate these things can get a bit confusing in your family
-2016-05-08,Season 6,Episode 3,Oathbreaker,kevan,This is a Small Council meeting You have no position on the Small Council
+2016-05-08,Season 6,Episode 3,Oathbreaker,kevan lannister,This is a Small Council meeting You have no position on the Small Council
 2016-05-08,Season 6,Episode 3,Oathbreaker,jaime lannister,I'm Lord Commander of the Kingsguard The Lord Commander of the Kingsguard does have a position on the Small Council
 2016-05-08,Season 6,Episode 3,Oathbreaker,cersei lannister,"Grand Maester Pycelle, would you sanction that statement?"
 2016-05-08,Season 6,Episode 3,Oathbreaker,maester pycelle,"Well, um...I would say Ser Gerold Hightower had a seat on the Mad King's council Of course, that was the Mad King King Robert saw things differently"
 2016-05-08,Season 6,Episode 3,Oathbreaker,cersei lannister,"What about Myrcella's death, Uncle? Do you consider the murder of your own blood a troublesome issue?"
 2016-05-08,Season 6,Episode 3,Oathbreaker,jaime lannister,The same women who murdered Myrcella have overthrown House Martell and taken control of Dorne We've got a lot to discuss All of us together
 2016-05-08,Season 6,Episode 3,Oathbreaker,cersei lannister,"And seeing as you cannot make us leave, we best get on with it"
-2016-05-08,Season 6,Episode 3,Oathbreaker,kevan,"No, we cannot make you leave And you cannot make us stay Not unless you're gonna have that thing murder us all"
+2016-05-08,Season 6,Episode 3,Oathbreaker,kevan lannister,"No, we cannot make you leave And you cannot make us stay Not unless you're gonna have that thing murder us all"
 2016-05-08,Season 6,Episode 3,Oathbreaker,sparrow,"Oh, your Grace"
 2016-05-08,Season 6,Episode 3,Oathbreaker,tommen lannister,My mother would like to see her daughter's final resting place
 2016-05-08,Season 6,Episode 3,Oathbreaker,sparrow,"Oh, I'm, sorry, your Grace That's not possible Not yet"
@@ -17989,10 +17989,10 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2016-05-15,Season 6,Episode 4,Book of the Stranger,davos,Who did?
 2016-05-15,Season 6,Episode 4,Book of the Stranger,brienne,Stannis Just before I executed him
 2016-05-15,Season 6,Episode 4,Book of the Stranger,petyr baelish,The Defender of the Vale!
-2016-05-15,Season 6,Episode 4,Book of the Stranger,robin,Uncle Petyr!
+2016-05-15,Season 6,Episode 4,Book of the Stranger,robin arryn,Uncle Petyr!
 2016-05-15,Season 6,Episode 4,Book of the Stranger,petyr baelish,My lord Come and see
 2016-05-15,Season 6,Episode 4,Book of the Stranger,petyr baelish,I missed your name day Go on
-2016-05-15,Season 6,Episode 4,Book of the Stranger,robin,A falcon!
+2016-05-15,Season 6,Episode 4,Book of the Stranger,robin arryn,A falcon!
 2016-05-15,Season 6,Episode 4,Book of the Stranger,petyr baelish,A gyrfalcon The greatest and rarest of birds
 2016-05-15,Season 6,Episode 4,Book of the Stranger,yohn royce,"Last time I saw you, Baelish, you told me you were taking Sansa Stark home with you to the Fingers."
 2016-05-15,Season 6,Episode 4,Book of the Stranger,petyr baelish,Indeed I was
@@ -18002,15 +18002,15 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2016-05-15,Season 6,Episode 4,Book of the Stranger,petyr baelish,"Tell me, Lord Royce, how many people knew of my travel plans with Sansa Stark? I shared my intentions with you and no one else"
 2016-05-15,Season 6,Episode 4,Book of the Stranger,yohn royce,"Slander a man in his own home, you might find yourself crossing swords with him"
 2016-05-15,Season 6,Episode 4,Book of the Stranger,petyr baelish,Your home is the Vale The Lord of the Vale stands before us And only his judgment concerns me
-2016-05-15,Season 6,Episode 4,Book of the Stranger,robin,Shall we throw him through the Moon Door?
+2016-05-15,Season 6,Episode 4,Book of the Stranger,robin arryn,Shall we throw him through the Moon Door?
 2016-05-15,Season 6,Episode 4,Book of the Stranger,yohn royce,"My lord My lord, I have always been faithful to House Arryn To your father, to your mother, and now to you."
-2016-05-15,Season 6,Episode 4,Book of the Stranger,robin,"Do you believe him, Uncle Petyr?"
+2016-05-15,Season 6,Episode 4,Book of the Stranger,robin arryn,"Do you believe him, Uncle Petyr?"
 2016-05-15,Season 6,Episode 4,Book of the Stranger,petyr baelish,"Lord Royce has served the Vale well He;s enjoyed a distinguished military career If we could trust his absolute loyalty, he would make a capable commander in the wars to come"
 2016-05-15,Season 6,Episode 4,Book of the Stranger,yohn royce,"You can trust my absolute loyalty, my lord"
 2016-05-15,Season 6,Episode 4,Book of the Stranger,petyr baelish,I think he deserves one more chance What do you say?
-2016-05-15,Season 6,Episode 4,Book of the Stranger,robin,Fine
+2016-05-15,Season 6,Episode 4,Book of the Stranger,robin arryn,Fine
 2016-05-15,Season 6,Episode 4,Book of the Stranger,petyr baelish,"I bring good news My friends in the North tell me Sansa has escaped Winterfell I expect she's headed to Castle Black where her brother serves as Lord Commander But she won't be safe there, not with the Boltons after her"
-2016-05-15,Season 6,Episode 4,Book of the Stranger,robin,She's my cousin We should help her
+2016-05-15,Season 6,Episode 4,Book of the Stranger,robin arryn,She's my cousin We should help her
 2016-05-15,Season 6,Episode 4,Book of the Stranger,petyr baelish,That was my instinct as well
 2016-05-15,Season 6,Episode 4,Book of the Stranger,petyr baelish,Our lord has spoken Gather the Knights of the Vale The time has come to join the fray
 2016-05-15,Season 6,Episode 4,Book of the Stranger,grey worm,You invite the enemy into our city?
@@ -18180,12 +18180,12 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2016-05-15,Season 6,Episode 4,Book of the Stranger,cersei lannister,What are you doing here?
 2016-05-15,Season 6,Episode 4,Book of the Stranger,maester pycelle,I am advising the king on our current predicament.
 2016-05-15,Season 6,Episode 4,Book of the Stranger,cersei lannister,Leave.
-2016-05-15,Season 6,Episode 4,Book of the Stranger,maester pycell,I am a member of the Small Council. The king's small --
+2016-05-15,Season 6,Episode 4,Book of the Stranger,maester pycelle,I am a member of the Small Council. The king's small --
 2016-05-15,Season 6,Episode 4,Book of the Stranger,cersei lannister,Is this a Small Council meeting?
-2016-05-15,Season 6,Episode 4,Book of the Stranger,maester pycell,Obviously not. I'm here to lend my wisdom and my support.
+2016-05-15,Season 6,Episode 4,Book of the Stranger,maester pycelle,Obviously not. I'm here to lend my wisdom and my support.
 2016-05-15,Season 6,Episode 4,Book of the Stranger,tommen lannister,"Thank you for your counsel, Grand Maester. That will be all for now."
-2016-05-15,Season 6,Episode 4,Book of the Stranger,maester pycell,Your Grace.
-2016-05-15,Season 6,Episode 4,Book of the Stranger,maester,"PYCELLE hobbles towards the door. As he leaves, he flashes CERSEI a smile. CERSEI closes the door."
+2016-05-15,Season 6,Episode 4,Book of the Stranger,maester pycelle,Your Grace.
+2016-05-15,Season 6,Episode 4,Book of the Stranger,maester pycelle,"PYCELLE hobbles towards the door. As he leaves, he flashes CERSEI a smile. CERSEI closes the door."
 2016-05-15,Season 6,Episode 4,Book of the Stranger,cersei lannister,"Since I've missed the past several Small Coucil meetings, I wanted to speak to you about a few things."
 2016-05-15,Season 6,Episode 4,Book of the Stranger,tommen lannister,I've been thinking about the High Sparrow.
 2016-05-15,Season 6,Episode 4,Book of the Stranger,cersei lannister,"As have we all, unfortunately."
@@ -18198,7 +18198,7 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2016-05-15,Season 6,Episode 4,Book of the Stranger,cersei lannister,You've spoken with him?
 2016-05-15,Season 6,Episode 4,Book of the Stranger,tommen lannister,I promised him I wouldn't tell anyone. If he found out I told --
 2016-05-15,Season 6,Episode 4,Book of the Stranger,cersei lannister,"It would be a breach of confidence which he would not take lightly, given his constant prattling about the truth. I am your mother. You can always trust me."
-2016-05-15,Season 6,Episode 4,Book of the Stranger,kevan,and LADY OLENNA are waiting in the Small Council chamber for the meeting to start. CERSEI and JAIME enter.
+2016-05-15,Season 6,Episode 4,Book of the Stranger,kevan lannister,and LADY OLENNA are waiting in the Small Council chamber for the meeting to start. CERSEI and JAIME enter.
 2016-05-15,Season 6,Episode 4,Book of the Stranger,cersei lannister,The Small Council meeting has been postponed on the king's orders.
 2016-05-15,Season 6,Episode 4,Book of the Stranger,kevin,and LADY OLENNA stand up.
 2016-05-15,Season 6,Episode 4,Book of the Stranger,lady olenna,I would have thought we were perfectly clear the first time. You're not welcome.
@@ -18209,14 +18209,14 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2016-05-15,Season 6,Episode 4,Book of the Stranger,lady olenna,"Oh, no. That cannot happen. That will not happen."
 2016-05-15,Season 6,Episode 4,Book of the Stranger,cersei lannister,I agree.
 2016-05-15,Season 6,Episode 4,Book of the Stranger,jaime lannister,"You've got the second largest army in Westeros. You'll bring them into the city, stop queen Margaery's humiliation before it starts, and take her back into Crown custody."
-2016-05-15,Season 6,Episode 4,Book of the Stranger,kevan,The king has ordered me to take no action against the High Sparrow or the Faith Militant out of fear for the queen's safety.
+2016-05-15,Season 6,Episode 4,Book of the Stranger,kevan lannister,The king has ordered me to take no action against the High Sparrow or the Faith Militant out of fear for the queen's safety.
 2016-05-15,Season 6,Episode 4,Book of the Stranger,jaime lannister,"You'll take no action at all. When the Tyrell armies come, you will stand down. Are you expressly forbidden from standing down?"
-2016-05-15,Season 6,Episode 4,Book of the Stranger,kevan,"No, but if the king should call on me --"
+2016-05-15,Season 6,Episode 4,Book of the Stranger,kevan lannister,"No, but if the king should call on me --"
 2016-05-15,Season 6,Episode 4,Book of the Stranger,jaime lannister,"The whole thing will be over before anyone can call on you to do anything. When the High Sparrow is in custody or dead, preferably, and Margaery's back at Tommen's side, do you think the king will be angry at the outcome?"
 2016-05-15,Season 6,Episode 4,Book of the Stranger,cersei lannister,You hate these fanatics as much as we do. You hate what they've done to your son. Do you want Lancel back or have you given him up for good?
-2016-05-15,Season 6,Episode 4,Book of the Stranger,kevan,Of course I want him back.
+2016-05-15,Season 6,Episode 4,Book of the Stranger,kevan lannister,Of course I want him back.
 2016-05-15,Season 6,Episode 4,Book of the Stranger,cersei lannister,Then stand aside and let the people that took him from you be destroyed.
-2016-05-15,Season 6,Episode 4,Book of the Stranger,kevan,"If it doesn't go as planned, the Sparrows have many friends in the city. We'll have civil war. Many will die."
+2016-05-15,Season 6,Episode 4,Book of the Stranger,kevan lannister,"If it doesn't go as planned, the Sparrows have many friends in the city. We'll have civil war. Many will die."
 2016-05-15,Season 6,Episode 4,Book of the Stranger,lady olenna,Many will die no matter what we do. Better them than us.
 2016-05-15,Season 6,Episode 4,Book of the Stranger,theon greyjoy,approaches Pyke Castle by boat.
 2016-05-15,Season 6,Episode 4,Book of the Stranger,yara greyjoy,"They told me you were home and I didn't believe it. “Theon Greyjoy?” I said. “He's dead. He's been dead a long time."" He let you go?"
@@ -19089,23 +19089,23 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2016-06-05,Season 6,Episode 7,The Broken Man,brynden,"Sieges are dull. And I wanted to see you in person, get the measure of you."
 2016-06-05,Season 6,Episode 7,The Broken Man,jaime lannister,"Well, now you have."
 2016-06-05,Season 6,Episode 7,The Broken Man,brynden,"Aye, now I have. I'm disappointed."
-2016-06-05,Season 6,Episode 7,The Broken Man,robett,The answer is no.
+2016-06-05,Season 6,Episode 7,The Broken Man,robett glover,The answer is no.
 2016-06-05,Season 6,Episode 7,The Broken Man,jon snow,"Lord Glover, if you could just hear us out."
-2016-06-05,Season 6,Episode 7,The Broken Man,robett,I've heard enough. We've only just taken back this castle from the Ironborn. The Boltons helped us do it. Now you want me to fight against them? I could be skinned for even talking to you.
+2016-06-05,Season 6,Episode 7,The Broken Man,robett glover,I've heard enough. We've only just taken back this castle from the Ironborn. The Boltons helped us do it. Now you want me to fight against them? I could be skinned for even talking to you.
 2016-06-05,Season 6,Episode 7,The Broken Man,jon snow,The Boltons are traitors. Roose Bolton- -
-2016-06-05,Season 6,Episode 7,The Broken Man,robett,Have other northern houses pledged to fight for you?
+2016-06-05,Season 6,Episode 7,The Broken Man,robett glover,Have other northern houses pledged to fight for you?
 2016-06-05,Season 6,Episode 7,The Broken Man,jon snow,House Mormont.
-2016-06-05,Season 6,Episode 7,The Broken Man,robett,And?
+2016-06-05,Season 6,Episode 7,The Broken Man,robett glover,And?
 2016-06-05,Season 6,Episode 7,The Broken Man,jon snow,We sent raven to Houses Manderly- -
-2016-06-05,Season 6,Episode 7,The Broken Man,robett,I don't care about ravens. You're asking me to join your army. Who is fighting in this army?
+2016-06-05,Season 6,Episode 7,The Broken Man,robett glover,I don't care about ravens. You're asking me to join your army. Who is fighting in this army?
 2016-06-05,Season 6,Episode 7,The Broken Man,jon snow,The bulk of the force is made up of wildlings.
-2016-06-05,Season 6,Episode 7,The Broken Man,robett,Then the rumors are true. I didn't dare believe them. I received you out of respect for your father. Now I would like you to leave. House Glover will not abandon its ancestral home to fight alongside wildlings.
+2016-06-05,Season 6,Episode 7,The Broken Man,robett glover,Then the rumors are true. I didn't dare believe them. I received you out of respect for your father. Now I would like you to leave. House Glover will not abandon its ancestral home to fight alongside wildlings.
 2016-06-05,Season 6,Episode 7,The Broken Man,jon snow,Lord Glover.
-2016-06-05,Season 6,Episode 7,The Broken Man,robett,There's nothing else to say.
+2016-06-05,Season 6,Episode 7,The Broken Man,robett glover,There's nothing else to say.
 2016-06-05,Season 6,Episode 7,The Broken Man,sansa stark,I would remind you that House Glover is pledged to House Stark. Sworn to answer when called upon.
-2016-06-05,Season 6,Episode 7,The Broken Man,robett,"Yes, my family served House Stark for centuries. We wept when we heard of your father's death. When my brother was lord of this castle, he answered Robb's call and hailed him King in the North."
-2016-06-05,Season 6,Episode 7,The Broken Man,robett,And where was King Robb when the Ironborn attacked this castle? When they threw my wife and children in prison and brutalized and killed our subjects? Taking up with a foreign whore. Getting himself and those who followed him killed.
-2016-06-05,Season 6,Episode 7,The Broken Man,robett,"I served House Stark once, but House Stark is dead."
+2016-06-05,Season 6,Episode 7,The Broken Man,robett glover,"Yes, my family served House Stark for centuries. We wept when we heard of your father's death. When my brother was lord of this castle, he answered Robb's call and hailed him King in the North."
+2016-06-05,Season 6,Episode 7,The Broken Man,robett glover,And where was King Robb when the Ironborn attacked this castle? When they threw my wife and children in prison and brutalized and killed our subjects? Taking up with a foreign whore. Getting himself and those who followed him killed.
+2016-06-05,Season 6,Episode 7,The Broken Man,robett glover,"I served House Stark once, but House Stark is dead."
 2016-06-05,Season 6,Episode 7,The Broken Man,theon greyjoy,Why did we have to come here?
 2016-06-05,Season 6,Episode 7,The Broken Man,yara greyjoy,Some of us still like it. Have a drink at least.
 2016-06-05,Season 6,Episode 7,The Broken Man,theon greyjoy,I don't want one.
@@ -19366,12 +19366,12 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2016-06-12,Season 6,Episode 8,No One,podrick,What should I write?
 2016-06-12,Season 6,Episode 8,No One,brienne,Tell her I failed.
 2016-06-12,Season 6,Episode 8,No One,cersei lannister,There's to be a royal announcement?
-2016-06-12,Season 6,Episode 8,No One,kevan,There is.
+2016-06-12,Season 6,Episode 8,No One,kevan lannister,There is.
 2016-06-12,Season 6,Episode 8,No One,cersei lannister,Why wasn't I informed?
-2016-06-12,Season 6,Episode 8,No One,kevan,There is to be a royal announcement in the throne room at this very moment.
-2016-06-12,Season 6,Episode 8,No One,kevan,Where are you going?
+2016-06-12,Season 6,Episode 8,No One,kevan lannister,There is to be a royal announcement in the throne room at this very moment.
+2016-06-12,Season 6,Episode 8,No One,kevan lannister,Where are you going?
 2016-06-12,Season 6,Episode 8,No One,cersei lannister,To stand by my son.
-2016-06-12,Season 6,Episode 8,No One,kevan,Your place is in the gallery with the other ladies of the court.
+2016-06-12,Season 6,Episode 8,No One,kevan lannister,Your place is in the gallery with the other ladies of the court.
 2016-06-12,Season 6,Episode 8,No One,tommen lannister,"Lords and ladies, the Faith and the Crown are the two pillars that hold up this world. One collapses, so does the other. The Father judges us all. If you break his laws...you will be punished. After conferring with His Holiness the High Septon, we have determined that Loras Tyrell and Cersei lannister's trial will be held in the Great Sept of Baelor on the first day of the Festival of the Mother."
 2016-06-12,Season 6,Episode 8,No One,tommen lannister,"Furthermore, after much prayer and reflection, the Crown has decided that from this day forward, trial by combat will be forbidden throughout the Seven Kingdoms. The tradition is a brutish one, a scheme devised by corrupt rulers in order to avoid true judgment from the gods. Cersei Lannister and Loras Tyrell will stand trial before seven septons as it was in the earliest days of the Faith. Seven blessings to all."
 2016-06-12,Season 6,Episode 8,No One,crowd,Seven blessings.
@@ -19831,15 +19831,15 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2016-06-26,Season 6,Episode 10,The Winds of Winter,sam tarly,Hello.
 2016-06-26,Season 6,Episode 10,The Winds of Winter,sam tarly,From Lord Commander Snow at Castle Black.
 2016-06-26,Season 6,Episode 10,The Winds of Winter,sam tarly,I'm-- I'm to be the new maester.
-2016-06-26,Season 6,Episode 10,The Winds of Winter,maester,Oh.
-2016-06-26,Season 6,Episode 10,The Winds of Winter,maester,"According to our records, Jeor Mormont is Lord Commander."
+2016-06-26,Season 6,Episode 10,The Winds of Winter,citadel maester,Oh.
+2016-06-26,Season 6,Episode 10,The Winds of Winter,citadel maester,"According to our records, Jeor Mormont is Lord Commander."
 2016-06-26,Season 6,Episode 10,The Winds of Winter,sam tarly,He died.
-2016-06-26,Season 6,Episode 10,The Winds of Winter,maester,We received no report from the maester at Castle Black.
+2016-06-26,Season 6,Episode 10,The Winds of Winter,citadel maester,We received no report from the maester at Castle Black.
 2016-06-26,Season 6,Episode 10,The Winds of Winter,sam tarly,Maester Aemon became quite ill shortly after the election. He's since passed away. Which is why I'm here.
-2016-06-26,Season 6,Episode 10,The Winds of Winter,maester,This is irregular.
+2016-06-26,Season 6,Episode 10,The Winds of Winter,citadel maester,This is irregular.
 2016-06-26,Season 6,Episode 10,The Winds of Winter,sam tarly,"Yes, well, I suppose that life is irregular."
-2016-06-26,Season 6,Episode 10,The Winds of Winter,maester,"The archmaester will discuss these irregularities with you. In the meantime, you are permitted to use the library. Follow me."
-2016-06-26,Season 6,Episode 10,The Winds of Winter,maester,No women or children!
+2016-06-26,Season 6,Episode 10,The Winds of Winter,citadel maester,"The archmaester will discuss these irregularities with you. In the meantime, you are permitted to use the library. Follow me."
+2016-06-26,Season 6,Episode 10,The Winds of Winter,citadel maester,No women or children!
 2016-06-26,Season 6,Episode 10,The Winds of Winter,jon snow,"When we had feasts, our family would sit up here… and I'd sit down there."
 2016-06-26,Season 6,Episode 10,The Winds of Winter,melisandre,"Could have been worse, Jon Snow. You had a family. You had feasts."
 2016-06-26,Season 6,Episode 10,The Winds of Winter,jon snow,"Aye, you're right. I was luckier than most."
@@ -20021,12 +20021,12 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2017-07-16,Season 7,Episode 1,Dragonstone,brandon stark,You were at the Fist of the First Men. You were at Hardhome. You've seen the Army of the Dead. You've seen the Night King. He's coming for us. For all of us.
 2017-07-16,Season 7,Episode 1,Dragonstone,edd,"Okay, come on. Let's get them inside."
 2017-07-16,Season 7,Episode 1,Dragonstone,jon snow,"I want every northern maester to scour their records for any mention of dragonglass. Dragonglass kills white walkers. It's more valuable to us now than gold. We need to find it, we need to mine it, we need to make weapons from it. Everyone aged 10 to 60 will drill daily with spears, pikes, bow and arrow."
-2017-07-16,Season 7,Episode 1,Dragonstone,robett,It's about time we taught these boys of summer how to fight.
+2017-07-16,Season 7,Episode 1,Dragonstone,robett glover,It's about time we taught these boys of summer how to fight.
 2017-07-16,Season 7,Episode 1,Dragonstone,jon snow,Not just the boys.
 2017-07-16,Season 7,Episode 1,Dragonstone,jon snow,We can't defend the North if only half the population is fighting.
-2017-07-16,Season 7,Episode 1,Dragonstone,robett,You expect me to put a spear in my granddaughter's hand?
+2017-07-16,Season 7,Episode 1,Dragonstone,robett glover,You expect me to put a spear in my granddaughter's hand?
 2017-07-16,Season 7,Episode 1,Dragonstone,lyanna mormont,"I don't plan on knitting by the fire while men fight for me. I might be small, Lord Glover, and I might be a girl, but I am every bit as much a Northerner as you."
-2017-07-16,Season 7,Episode 1,Dragonstone,robett,"Indeed you are, my lady. No one has questioned--"
+2017-07-16,Season 7,Episode 1,Dragonstone,robett glover,"Indeed you are, my lady. No one has questioned--"
 2017-07-16,Season 7,Episode 1,Dragonstone,lyanna mormont,And I don't need your permission to defend the North.
 2017-07-16,Season 7,Episode 1,Dragonstone,lyanna mormont,"We'll begin training every man, woman, boy, and girl on Bear Island."
 2017-07-16,Season 7,Episode 1,Dragonstone,jon snow,"While we're preparing for attack, we need to shore up our defenses. The only thing standing between us and the Army of the Dead is the Wall and the Wall hasn't been properly manned in centuries. I'm not the king of the Free Folk."
@@ -21574,7 +21574,7 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2017-08-13,Season 7,Episode 5,Eastwatch,daenerys targaryen,I haven't given you permission to leave.
 2017-08-13,Season 7,Episode 5,Eastwatch,jon snow,"With respect, Your Grace, I don't need your permission. I am a king. And I came here knowing that you could have your men behead me or your dragons burn me alive. I put my trust in you, a stranger, because I knew it was the best chance for my people, for all our people. Now I'm asking you to trust in a stranger because it's our best chance."
 2017-08-13,Season 7,Episode 5,Eastwatch,daenerys targaryen,pauses for a moment then nods her head in agreement.
-2017-08-13,Season 7,Episode 5,Eastwatch,robett,"The King in the North should stay in the north. We did not choose you to rule us, My Lady, but perhaps we should have."
+2017-08-13,Season 7,Episode 5,Eastwatch,robett glover,"The King in the North should stay in the north. We did not choose you to rule us, My Lady, but perhaps we should have."
 2017-08-13,Season 7,Episode 5,Eastwatch,yohn,"The Knights of the Vale came here for you, Lady Stark."
 2017-08-13,Season 7,Episode 5,Eastwatch,sansa stark,"You're very kind, my lords, but Jon is our king. He is doing what he thinks is best."
 2017-08-13,Season 7,Episode 5,Eastwatch,sansa stark,and ARYA are walking through the hall to SANSA's quarters having a discussion.
@@ -23813,7 +23813,7 @@ Release Date,Season,Episode,Episode Title,Name,Sentence
 2019-05-19,Season 8,Episode 6,The Iron Throne,riverlands lord,Aye.
 2019-05-19,Season 8,Episode 6,The Iron Throne,yohn royce,Aye.
 2019-05-19,Season 8,Episode 6,The Iron Throne,maester wolkan,Aye.
-2019-05-19,Season 8,Episode 6,The Iron Throne,robin,Aye.
+2019-05-19,Season 8,Episode 6,The Iron Throne,robin arryn,Aye.
 2019-05-19,Season 8,Episode 6,The Iron Throne,dornish prince,Aye.
 2019-05-19,Season 8,Episode 6,The Iron Throne,yara greyjoy,Aye.
 2019-05-19,Season 8,Episode 6,The Iron Throne,ironborn lord,Aye.
