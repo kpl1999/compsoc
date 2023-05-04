@@ -1,9 +1,10 @@
+
 body {
-    background-color: #fff5eb;
+    background-color: #00070be5;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
     padding: 0;
     margin: 0;
-    color: #CC3333;
-    font-family: 'Roboto', sans-serif;
 }
 
 section {
@@ -31,3 +32,8 @@ section .graph {
 .show {
     opacity: 1;
 }
+
+
+
+
+
