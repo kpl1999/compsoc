@@ -4,34 +4,108 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="styles.css">
+    
+    <!-- import Pure css for grid-->
+	<link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/pure-min.css"
+    integrity="sha384-Uu6IeWbM+gzNVXJcM9XV3SohHtmWE+3VGi496jvgX1jyvDTXfdK+rfZc8C1Aehk5" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/grids-responsive-min.css" />
+
+
     <title>Header is coming...</title>
-
-    <!-- use css files from folder css -->
-    <link rel="stylesheet" type="text/css" href="styles.css" media="all">
-
-    <!-- import JS functions -->
-    <script type="text/javascript" defer src="apps.js"></script>
 </head>
 
-
 <body>
-    <section>
-        <h1 class="hidden">This is the title of our site</h1>
-
-        <h2 class="hidden">Below will be an amazing graph about GoT characters</h2>
-    </section>
+    <div class="top-bar">
+        <a href="#" class="home-button">
+            <img src="graphics/GOT_home_button_trans.png" height="80px">
+        </a>
+        <a href="explainer-notebook.html" class="explainer-link">Explainer Notebook</a>
+    </div>
     
-    <section>
-        <p class="hidden">this is some extra text wuuuu</p>
-    </section>
-
-    <section class="hidden">
-        <iframe class="graph" src="Project/graphs/coscenes_graph.html" 
-            frameborder="0" 
-            allowfullscreen="true">
-        </iframe>
-    </section>
-
+    <div class="fullwidth-picture">
+        <img src="graphics/iron-throne.jpg" width="100%">
+        <!-- https://getwallpapers.com/wallset/eyJpdiI6Ik93a21zRWZiOTQwVjUxNXAzR2I5b3c9PSIsInZhbHVlIjoibzF1R1ZYQm1jMU03Y0xuVmJDZjNkaGR3V1RGUnNSd0ZVTlJKY2pKd0ZSYUx1NFpVTHlxZDZKemwrTGRjWFdNZCIsIm1hYyI6ImExMTlkMGRiNWFhNTkwMzBlM2E3ZGY0MjI0MjU4YjA5YTI2NjJkODU0MWNlYzlkYWQ0YWRkMjdiNTFhNGFkMDkifQ== -->
+    </div>
     
+    <div class="middle-banner">
+        <div class="section-title-box center-horizontal">
+            <p class="section-title">Game of Thrones</p>
+            <p class="section-subtitle">network analysis</p>
+        </div>
+        
+        <div class="content">
+            <p class="section-subtitle">Creating the network of co-scenes</p>
+            <p>Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
+                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
+                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
+                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
+                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
+                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
+                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
+                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
+                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
+                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
+                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
+            </p>
+        </div>
+
+        <graph_section>
+            <p class="graph_title_big">Co-scenes Network</p>
+            
+            <iframe class="graph" src="Project/graphs/coscenes_graph.html" 
+                frameborder="0" 
+                allowfullscreen="true">
+            </iframe>
+        </graph_section>
+
+        <div class="content">
+            <p class="section-subtitle">Now we look at co-starring through time</p>
+            <p>Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
+                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
+                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
+                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
+                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
+                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
+                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
+                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
+                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
+                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
+                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
+            </p>
+        </div>
+
+        <graph_section>
+            <p class="section-subtitle">Co-scenes through time</p>
+
+
+            <p class="quote center-horizontal">Above we see the cumulative number of co-scnes the top10 characters have been a part of.</p>
+
+        </graph_section>
+
+        <div class="pure-g">
+            <div class="pure-u-1-2">
+                <div class="grid-item">
+                    <p class="graph_title_small">plot with just sum</p>
+                    <div class="graph_box">
+
+                    </div>
+
+                </div>
+            </div>
+            <div class="pure-u-1-2">
+                <div class="grid-item">
+                    <p class="graph_title_small">plot with cumulative sum</p>
+
+                    <div class="graph_box">
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
 </body>
 </html>

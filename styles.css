@@ -1,21 +1,43 @@
 
+
 body {
-    background-color: #00070be5;
-    color: #ffffff;
-    font-family: 'Roboto', sans-serif;
-    padding: 0;
     margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #2f2c2c;
+    color: rgb(235, 230, 227);
 }
 
-section {
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #222222;
+    padding: 30px 0;
+    z-index: 1000;
+}
+
+.middle-banner {
+    margin: 60px auto;
+    width: 70%;
+    background-color: #444;
+    padding: 25px;
+    /* box-sizing: border-box; */
+    min-height: 500vh; /* five page downs */
+    margin-top: 0px;
+}
+
+graph_section {
+    margin: 100px auto;
     display: grid;
     place-items: center;
     align-content: center;
-    min-height: 100vh;
 }
 
-section .graph {
-    width: 60%;
+graph_section .graph {
+    width: 70%;
     aspect-ratio: 1;
 }
 
@@ -33,7 +55,110 @@ section .graph {
     opacity: 1;
 }
 
+.home-button {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0.8;
+}
+.top-bar .home-button {
+    margin-right: auto;
+    padding: 0 15px;
+    text-decoration: none;
+    color: white;
+    font-size: 1.1em;
+}
+.top-bar .explainer-link {
+    margin-left: auto;
+    padding: 0 35px;
+    text-decoration: none;
+    color: white;
+    font-size: 1.1em;
+    opacity: 0.5;
+}
 
+.fullwidth-picture {
+    margin-top: 0;
+    width: 100%;
+    height: auto;
+    border: 0;
+}
 
+.under-top-bar {
+    margin-top: 100px;
+}
 
+.section-title-box {
+    margin-bottom: 10vh;
+    margin-top: 10vh;
+}
 
+.section-title {
+    text-align: center;
+    font-size: 4em;
+    margin: 1%;
+}
+
+.section-subtitle {
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 20px;
+    margin: 1%;
+}
+
+.center-horizontal {
+    text-align: center;
+}
+
+.center-vertical {
+    display: flex;
+    align-items: center;
+}
+
+.center-all {
+    display: grid;
+    place-items: center;
+}
+
+.content {
+    margin: 20px auto;
+    width: 70%;
+    background-color: rgb(120, 117, 113);
+}
+
+.quote {
+    width: 60%;
+    font-style: italic;
+    font-size: 1.5em;
+    color: #bcbcbc;
+    margin: 0 auto;
+    padding: 2em;
+    border-left: 3px solid rgba(255, 255, 255, 0.2);
+    transform: translate(10%);
+    text-align: left;
+  }
+  
+
+p {
+    font-size: 1.2em;
+    line-height: 1.5em;
+}
+
+.graph_title_big {
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.graph_title_small {
+    text-align: center;
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+.graph_box {
+    margin: 20px auto;
+    width: 90%;
+    aspect-ratio: 1;
+    background-color: rgb(160, 149, 132);
+}
