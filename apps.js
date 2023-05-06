@@ -2,7 +2,7 @@ function scrollToSection(event, targetId) {
     event.preventDefault();
     const target = document.getElementById(targetId);
     const windowHeight = window.innerHeight;
-    const yOffset = -windowHeight * 0.25; // Position section 25% from the top
+    const yOffset = -windowHeight * 0.15; // Position section 25% from the top
     const y = target.getBoundingClientRect().top + window.pageYOffset + yOffset;
     smoothScrollTo(y, 250); // 250 milliseconds duration
 }

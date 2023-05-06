@@ -57,6 +57,14 @@ body {
     /* border-color: #341f18; */
 }
 
+.h-line {
+    width: 60%;
+    border-top: 2px solid #9b9090; /* Change the thickness by modifying the "2px" value */
+    display: block;
+    margin: 7vh auto; /* Center the line within the container */
+}
+
+
 a {
     color: white;
     text-decoration: none;
@@ -165,7 +173,7 @@ graph_section .graph {
     font-style: italic;
     font-size: 1.5em;
     color: #bcbcbc;
-    margin: 0 auto;
+    margin: 2em auto;
     padding: 2em;
     border-left: 3px solid rgba(255, 255, 255, 0.2);
     transform: translate(10%);
