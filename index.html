@@ -6,12 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <link rel="stylesheet" href="styles.css">
-    
+
     <!-- import Pure css for grid-->
 	<link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/pure-min.css"
     integrity="sha384-Uu6IeWbM+gzNVXJcM9XV3SohHtmWE+3VGi496jvgX1jyvDTXfdK+rfZc8C1Aehk5" crossorigin="anonymous">
     <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/grids-responsive-min.css" />
 
+    <script defer src="apps.js"></script>
 
     <title>Header is coming...</title>
 </head>
@@ -23,6 +24,12 @@
         </a>
         <a href="explainer-notebook.html" class="explainer-link">Explainer Notebook</a>
     </div>
+
+    <div class="side-bar">
+        <a href="#section1" onclick="scrollToSection(event, 'section1')">Title</a>
+        <a href="#section2" onclick="scrollToSection(event, 'section2')">Network</a>
+        <a href="#section3" onclick="scrollToSection(event, 'section3')">Temporal</a>
+      </div>
     
     <div class="fullwidth-picture">
         <img src="graphics/iron-throne.jpg" width="100%">
@@ -31,12 +38,13 @@
     
     <div class="middle-banner">
         <div class="section-title-box center-horizontal">
-            <p class="section-title">Game of Thrones</p>
+            <p class="section-title" id="section1">Game of Thrones</p>
+
             <p class="section-subtitle">network analysis</p>
         </div>
         
         <div class="content">
-            <p class="section-subtitle">Creating the network of co-scenes</p>
+            <p class="section-subtitle" id="section2">Creating the network of co-scenes</p>
             <p>Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
                 Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
                 Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
@@ -77,8 +85,9 @@
         </div>
 
         <graph_section>
-            <p class="section-subtitle">Co-scenes through time</p>
+            <p class="section-subtitle" id="section3">Co-scenes through time</p>
 
+            <div class="graph_box"></div>
 
             <p class="quote center-horizontal">Above we see the cumulative number of co-scnes the top10 characters have been a part of.</p>
 
