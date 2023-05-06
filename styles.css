@@ -29,6 +29,11 @@ body {
     margin-top: 0px;
 }
 
+a {
+    color: white;
+    text-decoration: none;
+}
+
 graph_section {
     margin: 100px auto;
     display: grid;
@@ -48,7 +53,7 @@ graph_section .graph {
 
 .hidden {
     opacity: 0;
-    transition: all 2s;
+    transition: all 5s;
 }
 
 .show {
@@ -118,6 +123,7 @@ graph_section .graph {
 .center-all {
     display: grid;
     place-items: center;
+    align-items: center;
 }
 
 .content {
