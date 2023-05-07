@@ -200,8 +200,8 @@ p {
 
 .graph_box {
     margin: 50px auto;
-    padding: 20px;
+    /* padding: 1px; */
     width: 90%;
-    aspect-ratio: 1;
+    aspect-ratio: 0;
     background-color: hsl(36, 13%, 57%);
 }
