@@ -17,7 +17,7 @@
     <title>Header is coming...</title>
 </head>
 
-<body id="home">
+<body id="title">
     <div class="top-bar">
         <a href="#" class="home-button">
             <img src="graphics/GOT_home_button_trans.png" height="80px">
@@ -26,25 +26,30 @@
     </div>
 
     <div class="side-bar">
-        <a href="#" onclick="scrollToSection(event, 'home')">Home</a>
-        <a href="#title" onclick="scrollToSection(event, 'title')">Title</a>
+        <a href="#" onclick="scrollToSection(event, 'title')">Title</a>
+        <a href="#home" onclick="scrollToSection(event, 'home')">Home</a>
         <a href="#motivation" onclick="scrollToSection(event, 'motivation')">Motivation</a>
         <a href="#basic_stats" onclick="scrollToSection(event, 'basic_stats')">Basic Stats</a>
         <a href="#analysis" onclick="scrollToSection(event, 'analysis')">Analysis</a>
         <a href="#text" onclick="scrollToSection(event, 'text')">Sentiment</a>
         <a href="#network_creation" onclick="scrollToSection(event, 'network_creation')">Network</a>
-        <a href="#co-scenes" onclick="scrollToSection(event, 'co-scenes')">Co-scenes</a>
+        <a href="#co-scenes" onclick="scrollToSection(event, 'co-scenes')">Episodic Co-starring</a>
+        <a href="#wordcloud" onclick="scrollToSection(event, 'wordcloud')">WordCloud</a>
         <a href="#discussion" onclick="scrollToSection(event, 'discussion')">Discussion</a>
-      </div>
-    
-    <div class="fullwidth-picture">
-        <img src="graphics/iron-throne.jpg" width="100%">
-        <!-- https://getwallpapers.com/wallset/eyJpdiI6Ik93a21zRWZiOTQwVjUxNXAzR2I5b3c9PSIsInZhbHVlIjoibzF1R1ZYQm1jMU03Y0xuVmJDZjNkaGR3V1RGUnNSd0ZVTlJKY2pKd0ZSYUx1NFpVTHlxZDZKemwrTGRjWFdNZCIsIm1hYyI6ImExMTlkMGRiNWFhNTkwMzBlM2E3ZGY0MjI0MjU4YjA5YTI2NjJkODU0MWNlYzlkYWQ0YWRkMjdiNTFhNGFkMDkifQ== -->
     </div>
+    
+    <div class="background-picture">
+        <img src="graphics/GoT_title.png" alt="" class="title-image">
+    </div>
+
+    <!-- <div class="fullwidth-picture">
+        <img src="graphics/iron-throne.jpg" width="100%"> -->
+        <!-- https://getwallpapers.com/wallset/eyJpdiI6Ik93a21zRWZiOTQwVjUxNXAzR2I5b3c9PSIsInZhbHVlIjoibzF1R1ZYQm1jMU03Y0xuVmJDZjNkaGR3V1RGUnNSd0ZVTlJKY2pKd0ZSYUx1NFpVTHlxZDZKemwrTGRjWFdNZCIsIm1hYyI6ImExMTlkMGRiNWFhNTkwMzBlM2E3ZGY0MjI0MjU4YjA5YTI2NjJkODU0MWNlYzlkYWQ0YWRkMjdiNTFhNGFkMDkifQ== -->
+    <!-- </div> -->
     
     <div class="middle-banner">
         <div class="section-title-box center-horizontal">
-            <p class="section-title" id="title">Game of Thrones</p>
+            <p class="section-title" id="home">Game of Thrones</p>
             <!-- <div class="h-line" style="width: 10%; margin: -10px auto;"></div> -->
             <p class="section-subtitle" style="margin-top: -20px;">network analysis</p>
         </div>
@@ -54,25 +59,23 @@
         <div class="content">
             <p class="section-subtitle" id="motivation">Motivation</p>
 
-            <p>Our dataset is focused on the popular TV series "Game of Thrones," which is renowned for its intricate social structure and complex plotlines. The character dataset includes information such as the name, house affiliation, the actor's name, as well as their relationships and interactions with other characters throughout the series, such as parents, siblings, who they might serve, who they are married to and who they have killed or have been killed by.</p>
+            <p>
+                Our "Game of Thrones" dataset is a perfect platform to explore the intricate social structures, evolving character relationships, and textual data from this popular TV series. The dataset is divided into three sections: character information, episode details, and manuscript dialogues, which provide a comprehensive view of the show's universe.
+            </p>
+            <p>
+                To make this information accessible and engaging, we developed an interactive website that allows users to delve into the complex social structure of the show. The website showcases character affiliations, connections between different houses, and the evolving nature of relationships throughout the series.
+            </p>
+            <p>
+                By leveraging natural language processing techniques on the manuscript dataset, we analyzed character sentiment and its changes over time. This analysis reveals the complex and multifaceted emotions expressed by characters, demonstrating their loyalty, love, hate, and distrust towards allies and enemies alike.
+            </p>
+            <p>
+                Our website also tracks sentiment fluctuations, shedding light on how characters' emotions shift in response to significant events or plotlines. This feature adds depth to our understanding of the show's narrative and provides an engaging way for users to explore the Game of Thrones universe.
+            </p>
+            <p>
+                In summary, our interactive website offers a fascinating and comprehensive look at the dynamic social networks, intricate relationships, and emotional journeys within the Game of Thrones series, making it an invaluable resource for fans and researchers alike.
+            </p>
 
-            <p>The episode dataset provides information on each episode, such as the episode and season number, their location and sublocation, and which characters are in the scene.</p>
 
-            <p>Finally, the manuscript dataset includes the written dialogue where each row represents a sentence alongside the character that spoke it, the episode and season number.</p>
-
-            <p>Game of Thrones is an interesting dataset to investigate in terms of network analysis because it is a complex and multi-dimensional network that is rich in character relationships and interactions. The series has a large ensemble cast of characters who are spread out over different locations and have various alliances, feuds, and allegiances with one another. These relationships are constantly evolving, with characters forming new alliances, betraying old ones, and sometimes even switching sides.</p>
-
-            <p>Furthermore, the characters in Game of Thrones are often involved in intricate political, social, and economic networks that can be analyzed using network analysis techniques. For example, characters may be part of a particular house that has its own internal structure and dynamics. These structures can be analyzed using network analysis techniques such as centrality measures to understand the relative importance of different characters within a network. For example, we will investigate how much characters appear throughout the series and the influence of their specific character.</p>
-
-            <p>Finally, Game of Thrones is an interesting dataset because it provides a lot of textual data, that can be analyzed using natural language processing techniques. The manuscript of the entire series, which includes the dialogue between characters will provide insights to a characters persona, for example whether they are postive or negative, and their overall sentiment score. By analyzing this data, we can gain insights into the themes and patterns that underlie the series and explore the relationships between different characters and houses.</p>
-
-            <p>Overall, the complexity and richness of the Game of Thrones universe make it an excellent dataset for network analysis and provide a fascinating opportunity to explore the dynamics of social networks in a complex, multi-dimensional setting.</p>
-
-            <p>Our goal for the end user's experience was to create a website that provides a comprehensive and interactive view of the complex social structure of Game of Thrones. We wanted to showcase the intricate relationships between the characters and the different houses within the series, as well as to highlight the evolving nature of these relationships over the course of the show.</p>
-
-            <p>In addition to showcasing the complex social structure of Game of Thrones, our website also provides insights into the sentiment of the different characters throughout the show and how it changes over time. By analyzing the text of the manuscript dataset, we were able to identify the sentiment expressed by each character in each episode, and to track changes in sentiment over the course of the series.</p>
-
-            <p>Our text analysis reveals that the sentiment of the characters in Game of Thrones is complex and multifaceted, with characters often expressing a mix of positive and negative emotions. For example, characters may express love and loyalty towards their allies while also harboring feelings of hate and distrust towards their enemies. Additionally, our analysis reveals that the sentiment of characters can change rapidly over the course of the show, often in response to significant events or plotlines.</p>
 
         </div>
 
@@ -120,14 +123,33 @@
 
         <div class="content">
             <p class="section-title" id="analysis">Analysis</p>
-
-            <p>Something general about analysis</p>
         </div>
         
         <div class="content">
             <p class="section-subtitle" id="text">Text and sentiment analysis</p>
-            <p>specific about text and sentiment analysis</p>
-            <p>what about some graphs below</p>
+            <p>
+                In our study of the Game of Thrones universe, we employed sentiment analysis to gain deeper insights into the emotional 
+                landscape of the show. This involved preprocessing the textual data using natural language processing tools such as nltk,
+                 which enabled us to eliminate stop words and streamline the text for further analysis. To ensure the focus remained on 
+                 meaningful words, we compiled a list of the 1000 most common words to filter out less interesting terms.
+
+            </p>
+            <p>
+                To perform sentiment analysis on the characters' dialogues, we used the Distilled BERT model, a powerful and efficient 
+                natural language understanding model. By applying this model to the dialogues, we tracked the sentiment of each character 
+                throughout the series, observing how their emotions evolved over the different seasons. Additionally, we applied this 
+                approach to Louvain communities based on co-scenes, which provided further insights into the relationships between characters 
+                and their shared experiences.
+
+            </p>
+            <p>
+                The results of our sentiment analysis were both informative and accurate, allowing us to closely rank major characters 
+                in a manner comparable to expert evaluations. Our group member Nicolaj, a Game of Thrones aficionado, produced a sentiment 
+                ranking of some of the most important characters in the series which our data-driven sentiment analysis aligns with pretty well . 
+                This outcome demonstrates the power of leveraging advanced natural language processing techniques like Distilled BERT to 
+                explore complex and multifaceted fictional universes like Game of Thrones.
+
+            </p>
         </div>
 
         <graph_section>
@@ -138,43 +160,81 @@
             <p>When analyzing the sentiment of different communities throughout the seasons of Game of Thrones, 
                 it was important to consider only those communities that had a significant impact on the series. 
                 Thus, communities consisting of minor characters with only a brief appearance, such as prostitutes 
-                or King’s Landing rioters, were excluded from the analysis. Five key communities were identified and 
-                included in the sentiment analysis:</p>
+                or King’s Landing rioters, were excluded from the analysis.</p>
 
-                <p>1st Community: Mainly comprised of characters involved in the arc at King’s Landing, including the 
-                Lannisters, Sansa Stark, Eddard Stark, the Tyrells, and the court of King’s Landing.</p>
-                
-                <p>2nd Community: Consisting of characters involved in the Winterfell arc as well as the Northern War 
-                against the crown after Eddard Stark leaves for Winterfell. This community includes Theon Greyjoy, 
-                Robb Star, Catelyin Stark, Brann Stark, Rickon Stark, Rodrik Cassel, and Edmure Tully, among others.</p>
-                
-            <p>3rd Community: Comprising characters connected to Jon Snow's arc, such as the brothers of the Night’s 
-                Watch and later advisors and bannermen of him after he is proclaimed King of the North.</p>
-                
-            <p>4th Community: Comprising characters that Arya Stark encounters throughout her journey after she 
-                leaves King’s Landing at the end of season 1, such as Sandor Clegane, members of the Brotherhood 
-                without Banners, and the Faceless Men.</p>
-                
-            <p>5th Community: Consisting of characters involved in Daenerys Targaryen's arc, including Jorah Mormont,
-                Grey Worm, Missandei, her dragons, Barristan Selmy, and Khal Drogo, among others.
-                To track the sentiment development of each community throughout Game of Thrones, the average sentiment 
-                of the most impactful characters in each community was calculated for each season. Notably, the sentiment 
-                of the Night’s Watch and Stark communities declines sharply in the first half of the series due to the 
-                threat beyond the Wall, the death of Eddard Stark, and the outbreak of war. Interestingly, the sentiment 
-                of the Stark community doesn't experience any decline, but rather an increase at the end of season 3 after 
-                the North loses the war and several members of the community are massacred at the ‘Red Wedding’ in the 9th
-                episode of season 3.</p>
-                
-            <p>Additionally, it is fascinating to follow the sentiment of Daenerys’ community, which starts and ends 
-                Game of Thrones with the most positive sentiment. The sentiment declines somewhat after the death of her
-                unborn child and her husband, but it starts rising again during her acquisition of an army and conquest 
-                of Slavers’ Bay. However, the sentiment declines rapidly from season 5 when her city is being terrorized 
-                by masked assailants, culminating in the community sentiment low at the end of season 5 when she is forced
-                to flee the city. From that point, the sentiment increases rapidly and reaches its maximum score across
-                communities in season 8. This positive sentiment score does not make logical sense, given the events of 
-                the series, including the deaths of several of her closest friends and her eventual descent into madness
-                and murder.</p>
+                <p>We analyzed the sentiment of five key communities in Game of Thrones.
+                    These communities were focused on story arcs at King's Landing, Winterfell, 
+                    Jon Snow's journey, Arya Stark's encounters, and Daenerys Targaryen's arc. The average sentiment of 
+                    impactful characters was calculated for each season to track sentiment development.</p>
+
+                <p>Notably, the sentiment of the Night's Watch, Arya Stark and Stark communities declines sharply in the first 
+                    half of the series due to various threats and losses. Arya Stark's journey with Sandor Clegane after her flight from captivity is marked by a rapid increase in sentiment.
+                   In contrast, the sentiment of Daenerys' 
+                    community remains relatively positive, despite facing challenges 
+                    such as losing her husband and child, and managing her conquered territories.</p>
+
+                <p>Interestingly, Daenerys' community sentiment concludes with a positive sentiment score in season 8, 
+                    which does not align with the events in the series, including her descent into madness 
+                    and the death of her closest friends. This discrepancy highlights the complexities and 
+                    limitations of sentiment analysis in capturing the nuances of such an intricate narrative.</p> 
         </div>
+
+
+
+        <graph_section>
+            
+        </graph_section>
+        <div class="content">
+            
+            <p>
+                Based on an analysis of the characters in Game of Thrones, a sentiment ranking was created for the top 10 most 
+                important characters, and this was compared to an "expert" ranking. The characters were evaluated based on their 
+                experiences throughout the series and how their overall sentiment was impacted by those experiences.
+
+            </p>
+            <p>
+                Tyrion Lannister, despite facing multiple challenges, managed to have several enjoyable seasons and humorous dialogues, 
+                ultimately becoming the "Hand of the King." Jon Snow witnessed the deaths of most of his family and the horrors of the
+                White Walkers, but found some inner peace after being exiled. Daenerys Targaryen went from being sold as a wife to a warlord, 
+                to birthing three dragons, gaining an army, freeing slaves, and becoming queen. Although she ultimately went insane and 
+                faced multiple hardships, her overall sentiment was not as negative as some other characters.
+
+            </p>
+            <p>
+                Cersei Lannister spent most of the show in control of King's Landing and was a terrible person who made various threats. 
+                Despite this, her luxurious lifestyle and lack of captivity (aside from a brief period in season 5) helped balance her 
+                sentiment. Jaime Lannister underwent a significant character arc, changing for the better, and although he lost his hand
+                and was held captive at times, his overall sentiment was not overly negative.
+
+            </p>
+            <p>
+                Arya Stark went through terrible things on her journey, resulting in mostly negative sentiment. Sansa Stark endured one 
+                tyrant after another and was humiliated and tortured, resulting in mostly negative sentiment, although she ultimately 
+                became the Queen of the North. Davos Seaworth lost his king Stannis halfway through the series, as well as his son in 
+                season 2, but his sentiment was mostly positive compared to the rest of the characters on the show. Samwell Tarly was 
+                mostly in good spirits, despite some initial challenges when he arrived at Castle Black, and the sentiment surrounding 
+                him was positive.
+
+            </p>
+            <p>
+                Bran Stark should mostly be classified as neutral since he, as the Three-Eyed Raven, is cut off from emotions.
+
+            </p>
+            <p>
+                When comparing the sentiment model's average sentiment ranking to the expert's ranking, the sentiment model was able to capture most of the characters' sentiments. The expert rankings were as follows:
+
+            </p>
+
+
+
+
+            
+
+
+        </div>
+
+
+
         
         <graph_section>
             <p class="section-subtitle">Number of script-lines per character</p>
@@ -207,8 +267,7 @@
         </graph_section>
 
         <div class="content">
-            <p>Weighted Importance:
-                When analyzing the importance of characters in Game of Thrones, it is essential to consider not only the number 
+            <p>When analyzing the importance of characters in Game of Thrones, it is essential to consider not only the number 
                 of scenes or the number of dialogues alone, as each of these tells something different about the importance of a
                  character. To create a more comprehensive evaluation, a new dataset was generated that combines the number of 
                  scenes and dialogues, each weighted at 50%.</p>
@@ -234,22 +293,8 @@
 
         <div class="content">
             <p class="section-subtitle" id="network_creation">Creating the network</p>
-            <p>Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
-                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
-                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
-                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
-                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
-                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
-                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
-                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
-                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
-                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
-                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph
-                
-                communities
-
-                attributes
-            </p>
+            <p>Our network was constructed with characters as nodes and co-scene appearances as edges. Edge weights were determined by the number of scenes in which characters co-appeared. We used the built-in Python function *community_louvain* to create communities and added the community number as an attribute for each node.</p>
+            <p>Modularity measures the network's division into distinct communities based on node connections. A modularity score above 0.4 is generally considered good and indicates well-defined communities. In our analysis, we achieved a modularity above 0.4, suggesting the presence of meaningful communities within the Game of Thrones network.</p>
         </div>
 
         <div class="content">
@@ -264,7 +309,7 @@
                 allowfullscreen="true">
             </iframe>
 
-            <p class="quote">Now that is an impressive network</p>
+            <p class="quote center-horizontal" style="font-size: 1.2em;">Hover for more details about each character!</p>
         </graph_section>
 
         <div class="h-line"></div>
@@ -276,7 +321,7 @@
                 <img id="gif" data-src="Project/graphs/bcr_coscenes.gif" alt="" width="100%">
             </div>
 
-            <p class="quote center-horizontal">Above we see the number of unique people that a character has shared a scene with throughout the series.</p>
+            <p class="quote center-horizontal" style="font-size: 1.2em;">Above we see the number of unique people that a character has shared a scene with throughout the series.</p>
 
         </graph_section>
 
@@ -302,7 +347,7 @@
 
         <graph_section>
             <div class="graph" style="aspect-ratio: 0;">
-                <img src="Project/graphs/top100wordcloud.png" alt="" width="100%">
+                <img id="wordcloud" src="Project/graphs/top100wordcloud.png" alt="" width="100%">
             </div>
         </graph_section>
         
@@ -319,7 +364,13 @@
         <div class="content">
             <p class="section-title" id="discussion">Discussion</p>
 
-            <p>here we discuss</p>
+            <p>The success of our Game of Thrones network analysis was facilitated by the comprehensive dataset available on <a href="https://www.kaggle.com/datasets/albenft/game-of-thrones-script-all-seasons">Kaggle*</a>, which was originally from <a href="https://genius.com/artists/Game-of-thrones">Genius.com</a> . This dataset, which included character information, relationships, scenes, and dialogue scripts from all eight seasons, saved us time and effort in data collection and cleaning.</p>
+            <p>We focused on character connections based on shared scenes and other attributes, allowing us to explore the complex social structure of the series and confirm various hypotheses. Our prior knowledge of the show enabled us to analyze results with expert-level depth.</p>
+            <p>Another successful aspect was text analysis, utilizing over 20,000 dialogues for sentiment analysis. We employed a pre-trained model to capture sentiment for each dialogue, character, and community, revealing character development and themes throughout the series.</p>
+        
+            <p>Using a pre-made dataset presented limitations such as errors or inconsistencies in character names, which required time-consuming corrections. Gathering data via an API or web scraping could have improved accuracy but also posed challenges. Additionally, navigating the complex dataset consisting of various JSON and CSV files demanded considerable time and effort.</p>
+            <p>Being selective with information was necessary to stay within the project's scope and focus on specific areas of interest. Partitioning the network based on shared scenes led to some communities with irrelevant characters, a common issue in large networks, resulting in only five significant communities of interest.</p>
+            <p>Despite these limitations, we gleaned valuable insights into the complex social structure and character sentiments in Game of Thrones. Our analysis serves as a starting point for future exploration and research, with potential improvements in data collection and analysis methods.</p>
         </div>
 
     </div>
