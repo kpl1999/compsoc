@@ -44,8 +44,8 @@ body {
 } 
 
 p {
-    text-align: left;
-    width: 80%;
+    text-align: justify;
+    width: 100%;
 }
 
 .middle-banner {
