@@ -27,9 +27,14 @@
 
     <div class="side-bar">
         <a href="#" onclick="scrollToSection(event, 'home')">Home</a>
-        <a href="#section1" onclick="scrollToSection(event, 'section1')">Title</a>
-        <a href="#section2" onclick="scrollToSection(event, 'section2')">Network</a>
+        <a href="#title" onclick="scrollToSection(event, 'title')">Title</a>
+        <a href="#motivation" onclick="scrollToSection(event, 'motivation')">Motivation</a>
+        <a href="#basic_stats" onclick="scrollToSection(event, 'basic_stats')">Basic Stats</a>
+        <a href="#analysis" onclick="scrollToSection(event, 'analysis')">Analysis</a>
+        <a href="#text" onclick="scrollToSection(event, 'text')">Sentiment</a>
+        <a href="#network_creation" onclick="scrollToSection(event, 'network_creation')">Network</a>
         <a href="#section3" onclick="scrollToSection(event, 'section3')">Temporal</a>
+        <a href="#discussion" onclick="scrollToSection(event, 'discussion')">Discussion</a>
       </div>
     
     <div class="fullwidth-picture">
@@ -39,7 +44,7 @@
     
     <div class="middle-banner">
         <div class="section-title-box center-horizontal">
-            <p class="section-title" id="section1">Game of Thrones</p>
+            <p class="section-title" id="title">Game of Thrones</p>
             <div class="h-line" style="width: 10%; margin: -10px auto;"></div>
             <p class="section-subtitle">network analysis</p>
         </div>
@@ -47,7 +52,23 @@
         <div class="h-line"></div>
 
         <div class="content">
-            <p class="section-subtitle" id="section2">Creating the network of co-scenes</p>
+            <p class="section-subtitle" id="motivation">Motivation</p>
+        </div>
+
+        <div class="content">
+            <p class="section-subtitle" id="basic_stats">Basic Stats</p>
+        </div>
+
+        <div class="content">
+            <p class="section-subtitle" id="analysis">ANALYSIS</p>
+        </div>
+
+        <div class="content">
+            <p class="section-subtitle" id="text">text and sentiment analysis</p>
+        </div>
+
+        <div class="content">
+            <p class="section-subtitle" id="network_creation">Creating the network</p>
             <p>Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
                 Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
                 Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
@@ -58,8 +79,16 @@
                 Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
                 Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
                 Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
-                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
+                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph
+                
+                communities
+
+                attributes
             </p>
+        </div>
+
+        <div class="content">
+            <p class="section-subtitle"></p>
         </div>
 
         <graph_section>
@@ -95,7 +124,7 @@
             <p class="section-subtitle" id="section3">Co-scenes through time</p>
 
             <div class="graph_box" style="width: 70%; aspect-ratio: 0;">
-                <img src="Project/graphs/bcr_coscenes.gif" alt="" width="100%">
+                <img id="gif" data-src="Project/graphs/bcr_coscenes.gif" alt="" width="100%">
             </div>
 
             <p class="quote center-horizontal">Above we see the cumulative number of co-scnes the top10 characters have been a part of.</p>
@@ -128,6 +157,10 @@
 
         <div class="graph_box" style="aspect-ratio: 0;">
             <img src="Project/graphs/top100wordcloud.png" alt="" width="100%">
+        </div>
+
+        <div class="content">
+            <p class="section-title" id="discussion">Discussion</p>
         </div>
 
     </div>

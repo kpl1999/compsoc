@@ -26,9 +26,6 @@ function smoothScrollTo(targetY, duration) {
     requestAnimationFrame(step);
 }
 
-
-
-
 const observer = new IntersectionObserver(entries => {
     entries.forEach((entry) => {
         console.log("heyo")
@@ -43,3 +40,19 @@ const observer = new IntersectionObserver(entries => {
 
 const hiddenElements = document.querySelectorAll('.hidden');
 hiddenElements.forEach((el) => observer.observe(el));
+
+document.addEventListener('DOMContentLoaded', () => {
+    const gif = document.getElementById('gif');
+    const gifObserver = new IntersectionObserver((entries, observer) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          const gifSrc = gif.getAttribute('data-src');
+          gif.setAttribute('src', gifSrc);
+          gif.style.opacity = 1;
+          observer.disconnect();
+        }
+      });
+    });
+  
+    gifObserver.observe(gif);
+});
