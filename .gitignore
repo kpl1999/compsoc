@@ -3,3 +3,11 @@ venv/
 Project/initial_old.ipynb
 .vscode/
 ..vscode
+index_dev.html
+graphics/GOT_home_button.png
+graphics/GoTbanner.png
+Project/graphs/coscenes_graph2.html
+Project/test_deploy_py.py
+Project/test_deployment.ipynb
+Project/visualize_communities_devSimon.ipynb
+test.js
