@@ -54,21 +54,66 @@
         <div class="content">
             <p class="section-subtitle" id="motivation">Motivation</p>
 
-            <p>Here's something about motivation</p>
+            <p>Our dataset is focused on the popular TV series "Game of Thrones," which is renowned for its intricate social structure and complex plotlines. The character dataset includes information such as the name, house affiliation, the actor's name, as well as their relationships and interactions with other characters throughout the series, such as parents, siblings, who they might serve, who they are married to and who they have killed or have been killed by.</p>
+
+            <p>The episode dataset provides information on each episode, such as the episode and season number, their location and sublocation, and which characters are in the scene.</p>
+
+            <p>Finally, the manuscript dataset includes the written dialogue where each row represents a sentence alongside the character that spoke it, the episode and season number.</p>
+
+            <p>Game of Thrones is an interesting dataset to investigate in terms of network analysis because it is a complex and multi-dimensional network that is rich in character relationships and interactions. The series has a large ensemble cast of characters who are spread out over different locations and have various alliances, feuds, and allegiances with one another. These relationships are constantly evolving, with characters forming new alliances, betraying old ones, and sometimes even switching sides.</p>
+
+            <p>Furthermore, the characters in Game of Thrones are often involved in intricate political, social, and economic networks that can be analyzed using network analysis techniques. For example, characters may be part of a particular house that has its own internal structure and dynamics. These structures can be analyzed using network analysis techniques such as centrality measures to understand the relative importance of different characters within a network. For example, we will investigate how much characters appear throughout the series and the influence of their specific character.</p>
+
+            <p>Finally, Game of Thrones is an interesting dataset because it provides a lot of textual data, that can be analyzed using natural language processing techniques. The manuscript of the entire series, which includes the dialogue between characters will provide insights to a characters persona, for example whether they are postive or negative, and their overall sentiment score. By analyzing this data, we can gain insights into the themes and patterns that underlie the series and explore the relationships between different characters and houses.</p>
+
+            <p>Overall, the complexity and richness of the Game of Thrones universe make it an excellent dataset for network analysis and provide a fascinating opportunity to explore the dynamics of social networks in a complex, multi-dimensional setting.</p>
+
+            <p>Our goal for the end user's experience was to create a website that provides a comprehensive and interactive view of the complex social structure of Game of Thrones. We wanted to showcase the intricate relationships between the characters and the different houses within the series, as well as to highlight the evolving nature of these relationships over the course of the show.</p>
+
+            <p>In addition to showcasing the complex social structure of Game of Thrones, our website also provides insights into the sentiment of the different characters throughout the show and how it changes over time. By analyzing the text of the manuscript dataset, we were able to identify the sentiment expressed by each character in each episode, and to track changes in sentiment over the course of the series.</p>
+
+            <p>Our text analysis reveals that the sentiment of the characters in Game of Thrones is complex and multifaceted, with characters often expressing a mix of positive and negative emotions. For example, characters may express love and loyalty towards their allies while also harboring feelings of hate and distrust towards their enemies. Additionally, our analysis reveals that the sentiment of characters can change rapidly over the course of the show, often in response to significant events or plotlines.</p>
+
         </div>
 
         <div class="content">
             <p class="section-subtitle" id="basic_stats">Basic Stats</p>
+            <p>From the episode / scene data set it can be observed that the average number of characters per scene is 2.91, 
+                which indicates that most scenes are rather 'intimate' with only a few characters. This reveals that the show 
+                places a strong emphasis on character development and dynamics . However, it is worth noting that the data set 
+                may not accurately represent the number of characters present in large-scale battle scenes, which could skew this 
+                average higher. In addition, the average number of scenes per character is 20.99. There is a total of 4165 scenes 
+                in the entire TV-show, meaning that many characters do not appear that often. However, as can be observed from the 
+                plot below, the main characters do appear way more than the average, indicating that a small subset of characters 
+                plays a significant role in driving the narrative forward.</p>
         </div>
         
         <graph_section>
+            <p class="section-subtitle">Number of scenes per character</p>
             <img src="Project/graphs/scenes_characters_seasons.png" alt="" width="80%">
             <img src="Project/graphs/scenes_characters_seasons_cumulative.png" alt="" width="80%" style="margin-top: 10px;">
-            <p class="section-subtitle">Her skriver nico</p>
         </graph_section>
 
         <div class="content">
-            <p>here is about </p>
+            <p>Throughout the entirety of Game of Thrones, Jon Snow, Tyrion Lannister, and Daenerys Targaryen have the most number of scenes. 
+                It is worth noting the development of the number of scenes for each character throughout the series.</p>
+
+            <p>In the first four seasons, all of the main characters, including Jon, Tyrion, and Daenerys, have roughly 
+                the same number of scenes, with Tyrion having a slightly higher number. As the show progresses, and various 
+                character arcs merge, there is a significant shift in which characters are considered main characters and which 
+                are relegated to supporting roles. This shift is reflected in the number of scenes each character appears in, 
+                with Tyrion, Daenerys, and Jon having a significant increase in the number of scenes they appear in, leaving a 
+                significant gap between them and the other characters.</p>
+                
+            <p>Arya Stark, Bran Stark, Sansa Stark, and Cersei Lannister are grouped together with a similar number of scenes, 
+                but their character arcs are more side-arcs compared to the journeys of the top three characters. They all have 
+                their own distinct storylines, but they are not central to the overarching plot of the show to the same extent as 
+                Jon, Tyrion, and Daenerys.</p>
+                
+            <p>Jorah Mormont, Jaime Lannister, and Davos Seaworth, on the other hand, occupy a spot in the lower end of the top 
+                ten characters with the most number of scenes. This can be attributed to the fact that they serve as primary 
+                supporting characters for Jon, Daenerys, and Tyrion, respectively, and are not central to the show's main plot.
+            
         </div>
 
 
@@ -89,14 +134,56 @@
             <img src="Project/graphs/communities_sentiment.png" alt="" width="100%">
         </graph_section>
 
+        <div class="content">
+            <p>When analyzing the sentiment of different communities throughout the seasons of Game of Thrones, 
+                it was important to consider only those communities that had a significant impact on the series. 
+                Thus, communities consisting of minor characters with only a brief appearance, such as prostitutes 
+                or King’s Landing rioters, were excluded from the analysis. Five key communities were identified and 
+                included in the sentiment analysis:</p>
 
+                <p>1st Community: Mainly comprised of characters involved in the arc at King’s Landing, including the 
+                Lannisters, Sansa Stark, Eddard Stark, the Tyrells, and the court of King’s Landing.</p>
+                
+                <p>2nd Community: Consisting of characters involved in the Winterfell arc as well as the Northern War 
+                against the crown after Eddard Stark leaves for Winterfell. This community includes Theon Greyjoy, 
+                Robb Star, Catelyin Stark, Brann Stark, Rickon Stark, Rodrik Cassel, and Edmure Tully, among others.</p>
+                
+            <p>3rd Community: Comprising characters connected to Jon Snow's arc, such as the brothers of the Night’s 
+                Watch and later advisors and bannermen of him after he is proclaimed King of the North.</p>
+                
+            <p>4th Community: Comprising characters that Arya Stark encounters throughout her journey after she 
+                leaves King’s Landing at the end of season 1, such as Sandor Clegane, members of the Brotherhood 
+                without Banners, and the Faceless Men.</p>
+                
+            <p>5th Community: Consisting of characters involved in Daenerys Targaryen's arc, including Jorah Mormont,
+                Grey Worm, Missandei, her dragons, Barristan Selmy, and Khal Drogo, among others.
+                To track the sentiment development of each community throughout Game of Thrones, the average sentiment 
+                of the most impactful characters in each community was calculated for each season. Notably, the sentiment 
+                of the Night’s Watch and Stark communities declines sharply in the first half of the series due to the 
+                threat beyond the Wall, the death of Eddard Stark, and the outbreak of war. Interestingly, the sentiment 
+                of the Stark community doesn't experience any decline, but rather an increase at the end of season 3 after 
+                the North loses the war and several members of the community are massacred at the ‘Red Wedding’ in the 9th
+                episode of season 3.</p>
+                
+            <p>Additionally, it is fascinating to follow the sentiment of Daenerys’ community, which starts and ends 
+                Game of Thrones with the most positive sentiment. The sentiment declines somewhat after the death of her
+                unborn child and her husband, but it starts rising again during her acquisition of an army and conquest 
+                of Slavers’ Bay. However, the sentiment declines rapidly from season 5 when her city is being terrorized 
+                by masked assailants, culminating in the community sentiment low at the end of season 5 when she is forced
+                to flee the city. From that point, the sentiment increases rapidly and reaches its maximum score across
+                communities in season 8. This positive sentiment score does not make logical sense, given the events of 
+                the series, including the deaths of several of her closest friends and her eventual descent into madness
+                and murder.</p>
+        </div>
         
         <graph_section>
-            <p class="section-subtitle">Her skriver nico</p>
+            <p class="section-subtitle">Number of script-lines per character</p>
 
-            <p>Why do we want to do this? write shortly</p>
             <img src="Project/graphs/dialogues_characters_seasons.png" alt="" width="100%">
             <img src="Project/graphs/dialogues_characters_seasons_cumulative.png" alt="" width="100%" style="margin-top: 10px;">
+        </graph_section>
+        
+        <div class="content">
             <p>It is evident that throughout the television show, Game of Thrones, Tyrion Lannister has the most lines of dialogue. 
                 This can be attributed to his sharp wit and tongue, as well as his prominent role as an advisor throughout all eight seasons. 
                 As main characters are killed off throughout the series, the focus of the show shifts to other key characters, such as 
@@ -110,20 +197,39 @@
             <p>Another character whose dialogue count fluctuates throughout the show is Theon Greyjoy. At the beginning of the series, 
                 Theon has a significant number of lines, but his dialogue count drops drastically during season 2 after he is captured 
                 and tortured. This can be attributed to the breakdown of his will and the trauma he experiences during his captivity.
-                
-                It is important to note that the number of lines of dialogue a character has does not necessarily reflect their 
-                importance or impact on the show. For example, characters like Ned Stark and Robb Stark have relatively few lines 
-                of dialogue, but their deaths have a significant impact on the plot and storyline. Additionally, some characters like 
-                Bran Stark and Hodor have minimal dialogue but still have pivotal roles to play in the show's overall narrative.</p>
-        </graph_section>
-
+            </p>
+        </div>
         
         <graph_section>
+            <p class="section-subtitle">weighted importance</p>
             <img src="Project/graphs/weighted_importance_score.png" alt="" width="100%">
             <img src="Project/graphs/cumulative_weighted_importance_score.png" alt="" width="100%">
-            <p class="section-subtitle">weighted importance</p>
-            <p>ehehhehehe</p>
         </graph_section>
+
+        <div class="content">
+            <p>Weighted Importance:
+                When analyzing the importance of characters in Game of Thrones, it is essential to consider not only the number 
+                of scenes or the number of dialogues alone, as each of these tells something different about the importance of a
+                 character. To create a more comprehensive evaluation, a new dataset was generated that combines the number of 
+                 scenes and dialogues, each weighted at 50%.</p>
+                
+            <p>Based on this weighted dataset, it becomes clear that Tyrion Lannister is one of the most important characters 
+                in the show, despite not having the highest number of scenes. His sharp wit and cunning strategies make him a 
+                crucial player in the game of thrones, and his dialogue-driven scenes are often pivotal in moving the plot forward.</p>
+                
+            <p>Similarly, Jon Snow and Daenerys Targaryen, who have the highest number of scenes, are also among the most 
+                important characters in the show. Their story arcs are central to the overall narrative, and their decisions 
+                and actions have significant consequences for the other characters.</p>
+
+            <p>On the other hand, some characters who may have a high number of scenes but fewer dialogues, such as Bran Stark, 
+                are not necessarily as important in the grand scheme of things. Bran's journey from a young boy to the Three-Eyed 
+                Raven is a significant character arc, but his lack of emotions and reduced dialogue in later seasons means he is 
+                less active and has less impact on the plot than other main characters.</p>
+                
+            <p>Overall, the weighted importance of characters in Game of Thrones reveals that the number of scenes or 
+                dialogues alone does not determine a character's significance in the show. Instead, it's their actions, decisions, 
+                and impact on the plot that truly define their importance.</p>
+        </div>
         
 
         <div class="content">
@@ -163,32 +269,34 @@
 
         <div class="h-line"></div>
 
-        <div class="content">
-            <p class="section-subtitle">Now we look at co-starring through time</p>
-            <p>Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
-                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
-                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
-                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
-                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
-                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
-                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
-                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
-                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
-                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
-                Heres a long paragraph Heres a long paragraph Heres a long paragraph Heres a long paragraph 
-            </p>
-        </div>
-
         <graph_section>
-            <p class="section-subtitle" id="co-scenes">Co-scenes through time</p>
+            <p class="section-subtitle" id="co-scenes">Visualizing unique co-stars through episodes</p>
 
             <div class="graph_box" style="width: 90%; aspect-ratio: 0;">
                 <img id="gif" data-src="Project/graphs/bcr_coscenes.gif" alt="" width="100%">
             </div>
 
-            <p class="quote center-horizontal">Above we see the cumulative number of co-scnes the top10 characters have been a part of.</p>
+            <p class="quote center-horizontal">Above we see the number of unique people that a character has shared a scene with throughout the series.</p>
 
         </graph_section>
+
+        <div class="content">
+            <p>The number of different people each character has shared scenes with can tell us a lot about the character's journey and 
+                impact on the overall plot. One way to visualize this is by creating a timelapse of the number of different people each 
+                character has interacted with throughout the series.</p>
+
+            <p>While most of the main characters eventually meet up at some point, some characters have had more unique interactions 
+                with others due to their travels or story arcs. For example, Arya Stark, Tyrion Lannister, and Sansa Stark have traveled 
+                to multiple locations early in the series and have had the most diverse set of interactions with other characters. 
+                Arya Stark, in particular, benefits from a journey that has led her across almost every single main location and even 
+                across the Narrow Sea.</p>
+
+            <p>This timelapse reveals interesting insights into the characters' development and relationships with others. For example, 
+                Jon Snow initially has limited interactions with characters outside of the Night's Watch and his family, but this changes 
+                as he becomes more involved in the larger conflicts of the realm. On the other hand, Cersei Lannister's interactions mainly 
+                revolve around her family and court intrigue, reflecting her focus on consolidating power in King's Landing.</p>
+        </div>
+
 
         <div class="h-line"></div>
 
@@ -199,7 +307,11 @@
         </graph_section>
         
         <div class="content">
-            <p>something about this cloudy words</p>
+            <p>A word cloud based on tf-idf was generated using the entire script of Game of Thrones, with the top 1000 most common words removed. This technique helps to identify the most important and distinctive words used in the script, by giving more weight to words that are relatively rare but occur frequently in a particular episode or scene.</p>
+
+                <p>The resulting word cloud shows a range of themes and topics that are central to the show, including battles, politics, love, and betrayal. Some of the most prominent words include "king", "winter", "queen", "lord", "dragon", "kill", "fuck", "bastard", "drink", "wine", and "murder".</p>
+                
+                <p>Overall, the word cloud provides a visual representation of the most important and distinctive words used in Game of Thrones, and offers insights into the show's themes, characters, and plotlines.</p>
         </div>
 
         <div class="h-line"></div>
