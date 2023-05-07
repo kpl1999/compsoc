@@ -17,7 +17,7 @@
     <title>Header is coming...</title>
 </head>
 
-<body>
+<body id="home">
     <div class="top-bar">
         <a href="#" class="home-button">
             <img src="graphics/GOT_home_button_trans.png" height="80px">
@@ -26,6 +26,7 @@
     </div>
 
     <div class="side-bar">
+        <a href="#" onclick="scrollToSection(event, 'home')">Home</a>
         <a href="#section1" onclick="scrollToSection(event, 'section1')">Title</a>
         <a href="#section2" onclick="scrollToSection(event, 'section2')">Network</a>
         <a href="#section3" onclick="scrollToSection(event, 'section3')">Temporal</a>
@@ -64,7 +65,7 @@
         <graph_section>
             <p class="graph_title_big">Co-scenes Network</p>
             
-            <iframe class="graph" src="Project/graphs/coscenes_graph.html" 
+            <iframe class="graph" src="Project/graphs/coscenes_graph2.html" 
                 frameborder="0" 
                 allowfullscreen="true">
             </iframe>
@@ -121,6 +122,10 @@
                 </div>
             </div>
 
+        </div>
+
+        <div class="graph_box" style="aspect-ratio: 0;">
+            <img src="Project/graphs/top100wordcloud.png" alt="" width="100%">
         </div>
 
     </div>
