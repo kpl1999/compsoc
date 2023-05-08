@@ -43,6 +43,10 @@ body {
     background-color: #555;
 } 
 
+li {
+    font-size: 1.2em;;
+}
+
 p {
     text-align: justify;
     width: 100%;
